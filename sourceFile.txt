@@ -1,0 +1,26 @@
+app horses=an app about horses
+  ordered=yes, this app is ordered
+  maximages = 6
+  icon = https://s26.postimg.org/5aevnrsjb/arabianstallionongrass.jpg
+  author=phil
+  email = philiprbrenan@gmail.com
+# language=en
+
+photo arab.1= arabian stallion on grass
+  file = https://s26.postimg.org/5aevnrsjb/arabianstallionongrass.jpg
+
+photo arab.2 = arabian stallion on sand
+  file = https://s26.postimg.org/be11lf86v/arabianstalliononsand.jpg
+
+photo shetland.1= Shetland pony looking at you
+  file = https://s26.postimg.org/ojgjrj22h/Shetlandponylookingatyou.jpg
+
+photo shetland.2= Shetland pony with saddle
+  file = https://s26.postimg.org/xsiq1nayh/Shetlandponywithsaddle.jpg
+
+fact arab = Originated in the deserts of the Arabian Peninsula
+fact arab = One of the oldest breeds dating back at least 4,500 years
+
+fact shetland = Small size
+fact shetland = Compact, sturdy build with short legs and a thick coat
+fact shetland.2  = Requires a small saddle in winter
