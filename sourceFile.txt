@@ -1,7 +1,7 @@
 app horses=an app about horses
   ordered=yes, this app is ordered
   maximages = 6
-  icon = https://s26.postimg.org/5aevnrsjb/arabianstallionongrass.jpg
+  icon22 = https://s26.postimg.org/5aevnrsjb/arabianstallionongrass.jpg
   author=phil
   email = philiprbrenan@gmail.com
 # language=en
