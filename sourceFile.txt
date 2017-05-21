@@ -7,7 +7,7 @@ app horses=an app about horses
 # language=en
 
 photo arab.1= arabian stallion on blue grass
-  file = https://s26.postimg.org/5aevnrsjb/arabianstallionongrass.jpg
+  file = https://s26.postimg.org/5aevnrsjb/arabianstallionongrass.jpg333
 
 photo arab.2 = arabian stallion on sand
   file = https://s26.postimg.org/be11lf86v/arabianstalliononsand.jpg
