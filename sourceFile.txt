@@ -6,8 +6,8 @@ app horses=an app about horses
   email = philiprbrenan@gmail.com
 # language=en
 
-photo arab.1= arabian stallion on blue grass
-  file = https://s26.postimg.org/AAA5aevnrsjb/arabianstallionongrassAAA.jpg
+photo arab.1= arabian stallion on grass
+  file = https://s26.postimg.org/5aevnrsjb/arabianstallionongrass.jpg
 
 photo arab.2 = arabian stallion on sand
   file = https://s26.postimg.org/be11lf86v/arabianstalliononsand.jpg
