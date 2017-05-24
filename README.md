@@ -7,7 +7,11 @@ To generate this app, goto:
 
   http://www.appaapps.com/AppaAppsPhotoApp.html 
   
-enter philiprbrenan/horses in the input box and press submit.  
+enter:
+
+  philiprbrenan/horses
+  
+in the input box and press submit.  
 
 If you would like to change this app, sign up for a free GitHub account, clone this project, add Appa Apps as a collaborator and then generate your new app as described above using your repository name instead of mine.
 
