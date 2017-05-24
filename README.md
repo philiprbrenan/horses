@@ -20,4 +20,4 @@ If you would like to **change** this app:
 5. enter the name of your repository in the input box
 6. press submit.  
 
-If you encounter any **problems**, create an issue against your app and, Appa Apps, being a helpful collaborator, will be pleased to respond.
+If you encounter any **problems**, create an issue against your app and, <a href="http://www.appaapps.com">Appa Apps</a>, being a helpful collaborator, will be pleased to respond.
