@@ -1,15 +1,15 @@
 # horses
 This is an example of an Appa Apps Photo App.
 
-The input file is **sourceFile.txt** :  https://github.com/philiprbrenan/horses/blob/master/sourceFile.txt
+The input file is <a href="https://github.com/philiprbrenan/horses/blob/master/sourceFile.txt">sourceFile.txt</a>
 
-The **results** of compiling the source file are:
+The **results** of compiling this file are:
 
- http://appaapps.com/users/philiprbrenan/horses/html/playGame.html
+  http://appaapps.com/users/philiprbrenan/horses/html/playGame.html
  
-and
+and:
 
-http://appaapps.com/users/philiprbrenan/horses/html/assets.html
+  http://appaapps.com/users/philiprbrenan/horses/html/assets.html
 
 If you would like to **change** this app:
 
