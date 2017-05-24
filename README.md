@@ -14,11 +14,11 @@ http://appaapps.com/users/philiprbrenan/horses/html/assets.html
 If you would like to change this app:
 
 - sign up for a free GitHub account
-- clone this project
+- clone this project into your new account
 - add Appa Apps as a collaborator
-- goto: 
-  http://www.appaapps.com/AppaAppsPhotoApp.html 
+- goto: http://www.appaapps.com/AppaAppsPhotoApp.html 
 
-...enter the name of your repository in the input box and press submit.  
+...enter the name of your repository in the input box
+- press submit.  
 
 If you encounter any problems, create an issue against your app and Appa Apps, being a collaborator, will be pleased to respond.
