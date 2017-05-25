@@ -6,17 +6,17 @@ app horses=an app about horses
   email = philiprbrenan@gmail.com
 # language=en
 
-photo arab.1= arabian stallion on blue grass
-  file = https://s26.postimg.org/5aevnrsjb/arabianstallionongrass.jpg
+photo arab.1= arabian stallion on grass
+  url = https://s26.postimg.org/5aevnrsjb/arabianstallionongrass.jpg
 
 photo arab.2 = arabian stallion on sand
-  file = https://s26.postimg.org/be11lf86v/arabianstalliononsand.jpg
+  url = https://s26.postimg.org/be11lf86v/arabianstalliononsand.jpg
 
 photo shetland.1= Shetland pony looking at you
-  file = https://s26.postimg.org/ojgjrj22h/Shetlandponylookingatyou.jpg
+  url = https://s26.postimg.org/ojgjrj22h/Shetlandponylookingatyou.jpg
 
 photo shetland.2= Shetland pony with saddle
-  file = https://s26.postimg.org/xsiq1nayh/Shetlandponywithsaddle.jpg
+  url = https://s26.postimg.org/xsiq1nayh/Shetlandponywithsaddle.jpg
 
 fact arab = Originated in the deserts of the Arabian Peninsula
 fact arab = One of the oldest breeds dating back at least 4,500 years
