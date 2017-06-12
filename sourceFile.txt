@@ -18,6 +18,9 @@ photo shetland.1= Shetland pony looking at you
 photo shetland.2= Shetland pony with saddle
   url = https://s26.postimg.org/xsiq1nayh/Shetlandponywithsaddle.jpg
 
+photo 1=one
+  afewchars=1
+ 
 fact arab = Originated in the deserts of the Arabian Peninsula
 fact arab = One of the oldest breeds dating back at least 4,500 years
 
