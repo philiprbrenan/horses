@@ -6,20 +6,31 @@ app horses=an app about horses
   email = philiprbrenan@gmail.com
 # language=en
 
+photo 1=one
+  afewchars=1
+photo 2=two
+  afewchars=2
+photo 3=othree
+  afewchars=3
+photo 4=four
+  afewchars=4
+
 photo arab.1= arabian stallion on blue grass
   url = https://s26.postimg.org/5aevnrsjb/arabianstallionongrass.jpg
+  afewchars=arab
 
 photo arab.2 = arabian stallion on sand
   url = https://s26.postimg.org/be11lf86v/arabianstalliononsand.jpg
+  afewchars=arab
 
 photo shetland.1= Shetland pony looking at you
   url = https://s26.postimg.org/ojgjrj22h/Shetlandponylookingatyou.jpg
+  afewchars=sp
 
 photo shetland.2= Shetland pony with saddle
   url = https://s26.postimg.org/xsiq1nayh/Shetlandponywithsaddle.jpg
+  afewchars=sp
 
-photo 1=one
-  afewchars=1
  
 fact arab = Originated in the deserts of the Arabian Peninsula
 fact arab = One of the oldest breeds dating back at least 4,500 years
