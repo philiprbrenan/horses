@@ -16,7 +16,7 @@ If you would like to **change** this app:
 1. sign up for a free <a href="https://github.com/">GitHub</a> account
 2. clone this project into your new account
 3. add Appa Apps as a collaborator
-4. goto: http://www.appaapps.com/AppaAppsPhotoApp.html 
+4. go to: http://www.appaapps.com/AppaAppsPhotoApp.html 
 5. enter the name of your repository in the input box
 6. press submit.  
 
