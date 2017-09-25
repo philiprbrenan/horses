@@ -21,6 +21,30 @@ fact bbb.png.1 = First fact about bbb.png
 fact bbb.png.2 = Another fact about bbb.png
 
 
+# Details of photo ccc.png
+photo ccc.png = Title of ccc.png
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ccc.png
+
+fact ccc.png.1 = First fact about ccc.png
+fact ccc.png.2 = Another fact about ccc.png
+
+
+# Details of photo ddd.png
+photo ddd.png = Title of ddd.png
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ddd.png
+
+fact ddd.png.1 = First fact about ddd.png
+fact ddd.png.2 = Another fact about ddd.png
+
+
+# Details of photo eee.png
+photo eee.png = Title of eee.png
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/eee.png
+
+fact eee.png.1 = First fact about eee.png
+fact eee.png.2 = Another fact about eee.png
+
+
 # Details of photo newImageFile.png
 photo newImageFile.png = Title of newImageFile.png
   url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/newImageFile.png
