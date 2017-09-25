@@ -53,6 +53,22 @@ fact fff.png.1 = First fact about fff.png
 fact fff.png.2 = Another fact about fff.png
 
 
+# Details of photo ggg.png
+photo ggg.png = Title of ggg.png
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ggg.png
+
+fact ggg.png.1 = First fact about ggg.png
+fact ggg.png.2 = Another fact about ggg.png
+
+
+# Details of photo hhh
+photo hhh = Title of hhh
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/hhh
+
+fact hhh.1 = First fact about hhh
+fact hhh.2 = Another fact about hhh
+
+
 # Details of photo newImageFile.png
 photo newImageFile.png = Title of newImageFile.png
   url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/newImageFile.png
