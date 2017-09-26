@@ -21,6 +21,14 @@ fact a2.png.1 = First fact about a2.png
 fact a2.png.2 = Another fact about a2.png
 
 
+# Details of photo a3.png
+photo a3.png = Title of a3.png
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/a3.png
+
+fact a3.png.1 = First fact about a3.png
+fact a3.png.2 = Another fact about a3.png
+
+
 # Details of photo aaa.png
 photo aaa.png = Title of aaa.png
   url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/aaa.png
