@@ -45,6 +45,14 @@ fact a5.png.1 = First fact about a5.png
 fact a5.png.2 = Another fact about a5.png
 
 
+# Details of photo a6
+photo a6 = Title of a6
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/a6
+
+fact a6.1 = First fact about a6
+fact a6.2 = Another fact about a6
+
+
 # Details of photo aaa.png
 photo aaa.png = Title of aaa.png
   url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/aaa.png
