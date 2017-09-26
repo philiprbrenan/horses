@@ -5,12 +5,36 @@ app horses   = Test uploading of files to horses
   email     = philiprbrenan@gmail.com
 
 
+# Details of photo a1.png
+photo a1.png = Title of a1.png
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/a1.png
+
+fact a1.png.1 = First fact about a1.png
+fact a1.png.2 = Another fact about a1.png
+
+
+# Details of photo a2.png
+photo a2.png = Title of a2.png
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/a2.png
+
+fact a2.png.1 = First fact about a2.png
+fact a2.png.2 = Another fact about a2.png
+
+
 # Details of photo aaa.png
 photo aaa.png = Title of aaa.png
   url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/aaa.png
 
 fact aaa.png.1 = First fact about aaa.png
 fact aaa.png.2 = Another fact about aaa.png
+
+
+# Details of photo aaaa
+photo aaaa = Title of aaaa
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/aaaa
+
+fact aaaa.1 = First fact about aaaa
+fact aaaa.2 = Another fact about aaaa
 
 
 # Details of photo bbb.png
@@ -45,6 +69,14 @@ fact eee.png.1 = First fact about eee.png
 fact eee.png.2 = Another fact about eee.png
 
 
+# Details of photo eeee
+photo eeee = Title of eeee
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/eeee
+
+fact eeee.1 = First fact about eeee
+fact eeee.2 = Another fact about eeee
+
+
 # Details of photo fff.png
 photo fff.png = Title of fff.png
   url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/fff.png
@@ -75,4 +107,52 @@ photo newImageFile.png = Title of newImageFile.png
 
 fact newImageFile.png.1 = First fact about newImageFile.png
 fact newImageFile.png.2 = Another fact about newImageFile.png
+
+
+# Details of photo qqq
+photo qqq = Title of qqq
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/qqq
+
+fact qqq.1 = First fact about qqq
+fact qqq.2 = Another fact about qqq
+
+
+# Details of photo rrrr
+photo rrrr = Title of rrrr
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/rrrr
+
+fact rrrr.1 = First fact about rrrr
+fact rrrr.2 = Another fact about rrrr
+
+
+# Details of photo ttt
+photo ttt = Title of ttt
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ttt
+
+fact ttt.1 = First fact about ttt
+fact ttt.2 = Another fact about ttt
+
+
+# Details of photo www
+photo www = Title of www
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/www
+
+fact www.1 = First fact about www
+fact www.2 = Another fact about www
+
+
+# Details of photo yyyy
+photo yyyy = Title of yyyy
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/yyyy
+
+fact yyyy.1 = First fact about yyyy
+fact yyyy.2 = Another fact about yyyy
+
+
+# Details of photo zzz.png
+photo zzz.png = Title of zzz.png
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/zzz.png
+
+fact zzz.png.1 = First fact about zzz.png
+fact zzz.png.2 = Another fact about zzz.png
 
