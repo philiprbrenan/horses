@@ -4,7 +4,7 @@ app horses=an app about horses
   icon = https://s26.postimg.org/5aevnrsjb/arabianstallionongrass.jpg
   author=phil
   email = philiprbrenan@gmail.com
-# language=en
+# language=en11
 
 photo 1=one
   afewchars=1
