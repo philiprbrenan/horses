@@ -6,7 +6,7 @@ app horses=an app about horses
   email = philiprbrenan@gmail.com
 # language=en7
 
-photo 1=one
+photo 1=one house
   afewchars=1
 photo 2=two
   afewchars=2
