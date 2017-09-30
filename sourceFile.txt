@@ -1,5 +1,5 @@
 app horses=an app about horses
-  ordered=yes, this app is ordered although I am not soire that this is necessary in a newSourceFile
+  ordered=yes, this app is ordered although I am not sure that this is necessary in a newSourceFile
   maximages = 6
   icon = https://s26.postimg.org/5aevnrsjb/arabianstallionongrass.jpg
   author=phil
@@ -15,7 +15,7 @@ photo 3=three
 photo 4=four
   afewchars=4
 
-photo arab.1= arabian stallion on blue grass
+photo arab.1= arabian stallion on green grass
   url = https://s26.postimg.org/5aevnrsjb/arabianstallionongrass.jpg
   afewchars=arab
 
