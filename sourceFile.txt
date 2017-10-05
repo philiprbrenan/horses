@@ -6,7 +6,7 @@ app horses=an app about horses
   email = philiprbrenan@gmail.com
 # language=en2
 
-photo 1=one tree
+photo 1=one trees
   afewchars=1
 photo 2=two
   afewchars=2
