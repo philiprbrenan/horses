@@ -5,6 +5,14 @@ app horses   = Test uploading of files to horses
   email     = philiprbrenan@gmail.com
 
 
+# Details of photo AddImagesToThisFolder
+photo AddImagesToThisFolder = Title of AddImagesToThisFolder
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/AddImagesToThisFolder
+
+fact AddImagesToThisFolder.1 = First fact about AddImagesToThisFolder
+fact AddImagesToThisFolder.2 = Another fact about AddImagesToThisFolder
+
+
 # Details of photo a1.png
 photo a1.png = Title of a1.png
   url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/a1.png
