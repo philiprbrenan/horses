@@ -1,7 +1,7 @@
 app horses =an app about horses
   ordered=yes, this app is ordered although I am not sure that this is necessary in a newSourceFile
   maximages = 6
-  icon = https://s26.postimg.org/5aevnrsjb/arabianstallionongrass.jpg
+  icon = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg
   author=philiprbrenan
   email = philiprbrenan@gmail.com
 # language=en2
@@ -16,19 +16,19 @@ photo 4=four
   afewchars=4
 
 photo arab.1= arabian stallion on green grass
-  url = https://s26.postimg.org/5aevnrsjb/arabianstallionongrass.jpg
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg
   afewchars=arab
 
 photo arab.2 = arabian stallion on sand
-  url = https://s26.postimg.org/be11lf86v/arabianstalliononsand.jpg
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian2.jpg
   afewchars=arab
 
 photo shetland.1= Shetland pony looking at you
-  url = https://s26.postimg.org/ojgjrj22h/Shetlandponylookingatyou.jpg
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg
   afewchars=sp
 
 photo shetland.2= Shetland pony with saddle
-  url = https://s26.postimg.org/xsiq1nayh/Shetlandponywithsaddle.jpg
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg
   afewchars=sp
 
  
