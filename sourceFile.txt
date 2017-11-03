@@ -1,4 +1,4 @@
-app horses =an app about horses
+app horses = an app about horses
   ordered=yes, this app is ordered although I am not sure that this is necessary in a newSourceFile
   maximages = 6
   icon = https://s26.postimg.org/5aevnrsjb/arabianstallionongrass.jpg
