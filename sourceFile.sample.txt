@@ -5,194 +5,42 @@ app horses   = Test uploading of files to horses
   email     = philiprbrenan@gmail.com
 
 
-# Details of photo AddImagesToThisFolder
-photo AddImagesToThisFolder = Title of AddImagesToThisFolder
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/AddImagesToThisFolder
+# Details of photo Arabian1
+photo Arabian1 = Title of Arabian1
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg
 
-fact AddImagesToThisFolder.1 = First fact about AddImagesToThisFolder
-fact AddImagesToThisFolder.2 = Another fact about AddImagesToThisFolder
-
-
-# Details of photo a1.png
-photo a1.png = Title of a1.png
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/a1.png
-
-fact a1.png.1 = First fact about a1.png
-fact a1.png.2 = Another fact about a1.png
+fact Arabian1.1 = First fact about Arabian1
+fact Arabian1.2 = Another fact about Arabian1
 
 
-# Details of photo a2.png
-photo a2.png = Title of a2.png
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/a2.png
+# Details of photo Arabian2
+photo Arabian2 = Title of Arabian2
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian2.jpg
 
-fact a2.png.1 = First fact about a2.png
-fact a2.png.2 = Another fact about a2.png
-
-
-# Details of photo a3.png
-photo a3.png = Title of a3.png
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/a3.png
-
-fact a3.png.1 = First fact about a3.png
-fact a3.png.2 = Another fact about a3.png
+fact Arabian2.1 = First fact about Arabian2
+fact Arabian2.2 = Another fact about Arabian2
 
 
-# Details of photo a4.png
-photo a4.png = Title of a4.png
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/a4.png
+# Details of photo ShetlandPony1
+photo ShetlandPony1 = Title of ShetlandPony1
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg
 
-fact a4.png.1 = First fact about a4.png
-fact a4.png.2 = Another fact about a4.png
-
-
-# Details of photo a5.png
-photo a5.png = Title of a5.png
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/a5.png
-
-fact a5.png.1 = First fact about a5.png
-fact a5.png.2 = Another fact about a5.png
+fact ShetlandPony1.1 = First fact about ShetlandPony1
+fact ShetlandPony1.2 = Another fact about ShetlandPony1
 
 
-# Details of photo a6
-photo a6 = Title of a6
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/a6
+# Details of photo ShetlandPony2
+photo ShetlandPony2 = Title of ShetlandPony2
+  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony2.jpg
 
-fact a6.1 = First fact about a6
-fact a6.2 = Another fact about a6
-
-
-# Details of photo aaa.png
-photo aaa.png = Title of aaa.png
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/aaa.png
-
-fact aaa.png.1 = First fact about aaa.png
-fact aaa.png.2 = Another fact about aaa.png
+fact ShetlandPony2.1 = First fact about ShetlandPony2
+fact ShetlandPony2.2 = Another fact about ShetlandPony2
 
 
-# Details of photo aaaa
-photo aaaa = Title of aaaa
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/aaaa
-
-fact aaaa.1 = First fact about aaaa
-fact aaaa.2 = Another fact about aaaa
-
-
-# Details of photo bbb.png
-photo bbb.png = Title of bbb.png
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/bbb.png
-
-fact bbb.png.1 = First fact about bbb.png
-fact bbb.png.2 = Another fact about bbb.png
-
-
-# Details of photo ccc.png
-photo ccc.png = Title of ccc.png
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ccc.png
-
-fact ccc.png.1 = First fact about ccc.png
-fact ccc.png.2 = Another fact about ccc.png
-
-
-# Details of photo ddd.png
-photo ddd.png = Title of ddd.png
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ddd.png
-
-fact ddd.png.1 = First fact about ddd.png
-fact ddd.png.2 = Another fact about ddd.png
-
-
-# Details of photo eee.png
-photo eee.png = Title of eee.png
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/eee.png
-
-fact eee.png.1 = First fact about eee.png
-fact eee.png.2 = Another fact about eee.png
-
-
-# Details of photo eeee
-photo eeee = Title of eeee
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/eeee
-
-fact eeee.1 = First fact about eeee
-fact eeee.2 = Another fact about eeee
-
-
-# Details of photo fff.png
-photo fff.png = Title of fff.png
+# Details of photo fff
+photo fff = Title of fff
   url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/fff.png
 
-fact fff.png.1 = First fact about fff.png
-fact fff.png.2 = Another fact about fff.png
-
-
-# Details of photo ggg.png
-photo ggg.png = Title of ggg.png
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ggg.png
-
-fact ggg.png.1 = First fact about ggg.png
-fact ggg.png.2 = Another fact about ggg.png
-
-
-# Details of photo hhh
-photo hhh = Title of hhh
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/hhh
-
-fact hhh.1 = First fact about hhh
-fact hhh.2 = Another fact about hhh
-
-
-# Details of photo newImageFile.png
-photo newImageFile.png = Title of newImageFile.png
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/newImageFile.png
-
-fact newImageFile.png.1 = First fact about newImageFile.png
-fact newImageFile.png.2 = Another fact about newImageFile.png
-
-
-# Details of photo qqq
-photo qqq = Title of qqq
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/qqq
-
-fact qqq.1 = First fact about qqq
-fact qqq.2 = Another fact about qqq
-
-
-# Details of photo rrrr
-photo rrrr = Title of rrrr
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/rrrr
-
-fact rrrr.1 = First fact about rrrr
-fact rrrr.2 = Another fact about rrrr
-
-
-# Details of photo ttt
-photo ttt = Title of ttt
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ttt
-
-fact ttt.1 = First fact about ttt
-fact ttt.2 = Another fact about ttt
-
-
-# Details of photo www
-photo www = Title of www
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/www
-
-fact www.1 = First fact about www
-fact www.2 = Another fact about www
-
-
-# Details of photo yyyy
-photo yyyy = Title of yyyy
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/yyyy
-
-fact yyyy.1 = First fact about yyyy
-fact yyyy.2 = Another fact about yyyy
-
-
-# Details of photo zzz.png
-photo zzz.png = Title of zzz.png
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/zzz.png
-
-fact zzz.png.1 = First fact about zzz.png
-fact zzz.png.2 = Another fact about zzz.png
+fact fff.1 = First fact about fff
+fact fff.2 = Another fact about fff
 
