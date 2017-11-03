@@ -1,36 +1,118 @@
-Failed.
-2017-11-03 at 17:57:44 Generate AppaAppsPhotoApp version 20171103-2222 philiprbrenan/horses
+SUCCESS!
+2017-11-03 at 18:11:50 Generate AppaAppsPhotoApp version 20171103-2222 philiprbrenan/horses
 
-2017-11-03 at 17:57:46 Step: parseSource
-2017-11-03 at 17:57:46 The app command author keyword is "phil" but it should be "philiprbrenan"
-
+2017-11-03 at 18:11:51 Step: parseSource
+2017-11-03 at 18:11:51 Good source file!
+2017-11-03 at 18:11:51 Step: loadAssets
+2017-11-03 at 18:11:51 
+2017-11-03 at 18:11:51 
+2017-11-03 at 18:11:52 
+2017-11-03 at 18:14:36 Step: multiplyPhotosByFacts
+2017-11-03 at 18:14:36 Step: genJavaManifest
+2017-11-03 at 18:14:36 Step: genJsonManifest
+2017-11-03 at 18:14:36 Step: genGameHtml
+2017-11-03 at 18:14:36 Step: genHtmlAssets
+2017-11-03 at 18:14:36 Step: zipAssets
+2017-11-03 at 18:14:36 Step: compileApp
+2017-11-03 at 18:14:46 Step: copyLinksToGitHub
+2017-11-03 at 18:14:48 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
+    android => bless({
+      action        => "run",
+      activity      => "Activity",
+      buildFolder   => "/tmp/AppaAppsPhotoApp/build/",
+      buildTools    => "/home/phil/Android/sdk/build-tools/25.0.3/",
+      debug         => 0,
+      device        => "emulator-5554",
+      editSource    => undef,
+      home          => "/",
+      icon          => "/tmp/AppaAppsPhotoApp/cache/images/Arabian1.jpg",
+      keyAlias      => "genApp",
+      keyStoreFile  => "/home/phil/AppaAppsPhotoApp/keys/genApp.keystore",
+      keyStorePwd   => "genApp",
+      libs          => [],
+      log           => [
+                         "",
+                         "warning: [options] bootstrap class path not set in conjunction with -source 1.7\n1 warning",
+                         "",
+                         "Crunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
+                         "",
+                         "",
+                         "Enter Passphrase for keystore: jar signed.\n\nWarning: \nNo -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.",
+                         "\njar verified.\n\nWarning: \nThis jar contains entries whose certificate chain is not validated.\nThis jar contains signatures that does not include a timestamp. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.\n\nRe-run with the -verbose and -certs options for more details.",
+                       ],
+      package       => "com.appaapps.photoapp.horses",
+      parameters    => "philiprbrenan,horses,http://www.appaapps.com/users/philiprbrenan/horses/zip/horses.zip",
+      permissions   => ["INTERNET", "ACCESS_NETWORK_STATE"],
+      platform      => "/home/phil/Android/sdk/platforms/android-25/",
+      platformTools => "/home/phil/Android/sdk/platform-tools/",
+      sdkLevels     => [15, 25],
+      src           => [
+                         "/home/phil/java/appState/AppState.java",
+                         "/home/phil/java/choices/Choices.java",
+                         "/home/phil/java/coloursTransformed/ColoursTransformed.java",
+                         "/home/phil/java/download/File.java",
+                         "/home/phil/java/email/Email.java",
+                         "/home/phil/java/fourier/Fourier.java",
+                         "/home/phil/java/gradients/Gradients.java",
+                         "/home/phil/java/download/Url.java",
+                         "/home/phil/java/log/Log.java",
+                         "/home/phil/java/maths/Maths.java",
+                         "/home/phil/java/randomChoice/RandomChoice.java",
+                         "/home/phil/java/save/Save.java",
+                         "/home/phil/java/sound/Midi.java",
+                         "/home/phil/java/sound/Sound.java",
+                         "/home/phil/java/sound/Speech.java",
+                         "/home/phil/java/svg/Svg.java",
+                         "/home/phil/java/unpackappdescription/Unpackappdescription.java",
+                         "/home/phil/java/upload/UploadStream.java",
+                         "/home/phil/java/unzip/Unzip.java",
+                       ],
+      title         => "an app about horses",
+      version       => 20171103,
+    }, "Android::Build"),
     app => bless({
-      cmd        => "app",
-      end        => 6,
-      index      => 0,
-      name       => "horses",
+      cmd => "app",
+      end => 6,
+      index => 0,
+      name => "horses",
       parsedKeys => bless({
-                      author    => "phil",
-                      cmd       => "app",
-                      email     => "philiprbrenan\@gmail.com",
-                      icon      => "https://s26.postimg.org/5aevnrsjb/arabianstallionongrass.jpg",
-                      language  => "en",
-                      maximages => 6,
-                      name      => "horses",
-                      ordered   => "yes, this app is ordered although I am not sure that this is necessary in a newSourceFile",
-                      title     => "an app about horses",
-                    }, "ParsedKeys"),
-      start      => 1,
-      title      => "an app about horses",
+        author    => "philiprbrenan",
+        cmd       => "app",
+        email     => "philiprbrenan\@gmail.com",
+        icon      => "https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg",
+        language  => "en",
+        maximages => 6,
+        name      => "horses",
+        ordered   => "yes, this app is ordered although I am not sure that this is necessary in a newSourceFile",
+        speakers  => "Amy Brian Emma Geraint Ivy Joanna Joey Justin Kendra Kimberly Nicole Raveena Russell Salli",
+        title     => "an app about horses",
+      }, "ParsedKeys"),
+      start => 1,
+      title => "an app about horses",
+      titleFile => undef,
     }, "ParsedCmd"),
-    error => 1,
+    error => undef,
+    iconFile => "/tmp/AppaAppsPhotoApp/cache/images/Arabian1.jpg",
     log => [
-      "2017-11-03 at 17:57:44 Generate AppaAppsPhotoApp version 20171103-2222 philiprbrenan/horses\n",
-      "2017-11-03 at 17:57:46 Step: parseSource",
-      "2017-11-03 at 17:57:46 The app command author keyword is \"phil\" but it should be \"philiprbrenan\"\n",
+      "2017-11-03 at 18:11:50 Generate AppaAppsPhotoApp version 20171103-2222 philiprbrenan/horses\n",
+      "2017-11-03 at 18:11:51 Step: parseSource",
+      "2017-11-03 at 18:11:51 Good source file!",
+      "2017-11-03 at 18:11:51 Step: loadAssets",
+      "2017-11-03 at 18:11:51 ",
+      "2017-11-03 at 18:11:51 ",
+      "2017-11-03 at 18:11:52 ",
+      "2017-11-03 at 18:14:36 Step: multiplyPhotosByFacts",
+      "2017-11-03 at 18:14:36 Step: genJavaManifest",
+      "2017-11-03 at 18:14:36 Step: genJsonManifest",
+      "2017-11-03 at 18:14:36 Step: genGameHtml",
+      "2017-11-03 at 18:14:36 Step: genHtmlAssets",
+      "2017-11-03 at 18:14:36 Step: zipAssets",
+      "2017-11-03 at 18:14:36 Step: compileApp",
+      "2017-11-03 at 18:14:46 Step: copyLinksToGitHub",
+      "2017-11-03 at 18:14:48 Step: copyFilesIntoPositionOnWebServer",
     ],
     parsedCmds => [
       'fix',
@@ -94,10 +176,12 @@ do {
         parsedKeys => bless({
           afewchars => "arab",
           cmd => "photo",
+          height => 1136,
           name => "arab.1",
           title => "arabian stallion on green grass",
           titleFile => "arabianstallionongreengrass",
-          url => "https://s26.postimg.org/5aevnrsjb/arabianstallionongrass.jpg",
+          url => "https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg",
+          width => 1513,
         }, "ParsedKeys"),
         start => 18,
         title => "arabian stallion on green grass",
@@ -111,10 +195,12 @@ do {
         parsedKeys => bless({
           afewchars => "arab",
           cmd => "photo",
+          height => 1221,
           name => "arab.2",
           title => "arabian stallion on sand",
           titleFile => "arabianstalliononsand",
-          url => "https://s26.postimg.org/be11lf86v/arabianstalliononsand.jpg",
+          url => "https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian2.jpg",
+          width => 1630,
         }, "ParsedKeys"),
         start => 22,
         title => "arabian stallion on sand",
@@ -128,10 +214,12 @@ do {
         parsedKeys => bless({
           afewchars => "sp",
           cmd => "photo",
+          height => 1149,
           name => "shetland.1",
           title => "Shetland pony looking at you",
           titleFile => "Shetlandponylookingatyou",
-          url => "https://s26.postimg.org/ojgjrj22h/Shetlandponylookingatyou.jpg",
+          url => "https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg",
+          width => 1534,
         }, "ParsedKeys"),
         start => 26,
         title => "Shetland pony looking at you",
@@ -145,10 +233,12 @@ do {
         parsedKeys => bless({
           afewchars => "sp",
           cmd => "photo",
+          height => 1149,
           name => "shetland.2",
           title => "Shetland pony with saddle",
           titleFile => "Shetlandponywithsaddle",
-          url => "https://s26.postimg.org/xsiq1nayh/Shetlandponywithsaddle.jpg",
+          url => "https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg",
+          width => 1534,
         }, "ParsedKeys"),
         start => 30,
         title => "Shetland pony with saddle",
@@ -229,10 +319,73 @@ do {
         title => "Requires a small saddle in winter",
         titleFile => "Requiresasmallsaddleinwinter",
       }, "ParsedCmd"),
+      bless({
+        cmd => "photoFact",
+        name => 4,
+        parsedKeys => bless({ cmd => "photoFact", name => 4, title => 0 }, "ParsedKeys"),
+        title => 0,
+        titleFile => undef,
+      }, "ParsedCmd"),
+      bless({
+        cmd => "photoFact",
+        name => 4,
+        parsedKeys => bless({ cmd => "photoFact", name => 4, title => 1 }, "ParsedKeys"),
+        title => 1,
+        titleFile => undef,
+      }, "ParsedCmd"),
+      bless({
+        cmd => "photoFact",
+        name => 5,
+        parsedKeys => bless({ cmd => "photoFact", name => 5, title => 0 }, "ParsedKeys"),
+        title => 0,
+        titleFile => undef,
+      }, "ParsedCmd"),
+      bless({
+        cmd => "photoFact",
+        name => 5,
+        parsedKeys => bless({ cmd => "photoFact", name => 5, title => 1 }, "ParsedKeys"),
+        title => 1,
+        titleFile => undef,
+      }, "ParsedCmd"),
+      bless({
+        cmd => "photoFact",
+        name => 6,
+        parsedKeys => bless({ cmd => "photoFact", name => 6, title => 2 }, "ParsedKeys"),
+        title => 2,
+        titleFile => undef,
+      }, "ParsedCmd"),
+      bless({
+        cmd => "photoFact",
+        name => 6,
+        parsedKeys => bless({ cmd => "photoFact", name => 6, title => 3 }, "ParsedKeys"),
+        title => 3,
+        titleFile => undef,
+      }, "ParsedCmd"),
+      bless({
+        cmd => "photoFact",
+        name => 7,
+        parsedKeys => bless({ cmd => "photoFact", name => 7, title => 2 }, "ParsedKeys"),
+        title => 2,
+        titleFile => undef,
+      }, "ParsedCmd"),
+      bless({
+        cmd => "photoFact",
+        name => 7,
+        parsedKeys => bless({ cmd => "photoFact", name => 7, title => 3 }, "ParsedKeys"),
+        title => 3,
+        titleFile => undef,
+      }, "ParsedCmd"),
+      bless({
+        cmd => "photoFact",
+        name => 7,
+        parsedKeys => bless({ cmd => "photoFact", name => 7, title => 4 }, "ParsedKeys"),
+        title => 4,
+        titleFile => undef,
+      }, "ParsedCmd"),
     ],
-    source => "app horses =an app about horses\n  ordered=yes, this app is ordered although I am not sure that this is necessary in a newSourceFile\n  maximages = 6\n  icon = https://s26.postimg.org/5aevnrsjb/arabianstallionongrass.jpg\n  author=phil\n  email = philiprbrenan\@gmail.com\n# language=en2\n\nphoto 1=one trees\n  afewchars=1\nphoto 2=two\n  afewchars=2\nphoto 3=three\n  afewchars=3\nphoto 4=four\n  afewchars=4\n\nphoto arab.1= arabian stallion on green grass\n  url = https://s26.postimg.org/5aevnrsjb/arabianstallionongrass.jpg\n  afewchars=arab\n\nphoto arab.2 = arabian stallion on sand\n  url = https://s26.postimg.org/be11lf86v/arabianstalliononsand.jpg\n  afewchars=arab\n\nphoto shetland.1= Shetland pony looking at you\n  url = https://s26.postimg.org/ojgjrj22h/Shetlandponylookingatyou.jpg\n  afewchars=sp\n\nphoto shetland.2= Shetland pony with saddle\n  url = https://s26.postimg.org/xsiq1nayh/Shetlandponywithsaddle.jpg\n  afewchars=sp\n\n \nfact arab = Originated in the deserts of the Arabian Peninsula\nfact arab = One of the oldest breeds dating back at least 4,500 years\n\nfact shetland = Small size\nfact shetland = Compact, sturdy build with short legs and a thick coat\nfact shetland.2  = Requires a small saddle in winter\n",
-    sourceFileSha => "f15e1b4bfc97c0648386177e8a02c1d29bcd8e81",
-    step => "parseSource",
+    source => "app horses =an app about horses\n  ordered=yes, this app is ordered although I am not sure that this is necessary in a newSourceFile\n  maximages = 6\n  icon = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg\n  author=philiprbrenan\n  email = philiprbrenan\@gmail.com\n# language=en2\n\nphoto 1=one trees\n  afewchars=1\nphoto 2=two\n  afewchars=2\nphoto 3=three\n  afewchars=3\nphoto 4=four\n  afewchars=4\n\nphoto arab.1= arabian stallion on green grass\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg\n  afewchars=arab\n\nphoto arab.2 = arabian stallion on sand\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian2.jpg\n  afewchars=arab\n\nphoto shetland.1= Shetland pony looking at you\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg\n  afewchars=sp\n\nphoto shetland.2= Shetland pony with saddle\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg\n  afewchars=sp\n\n \nfact arab = Originated in the deserts of the Arabian Peninsula\nfact arab = One of the oldest breeds dating back at least 4,500 years\n\nfact shetland = Small size\nfact shetland = Compact, sturdy build with short legs and a thick coat\nfact shetland.2  = Requires a small saddle in winter\n",
+    sourceFileSha => "ef8387200e6bfd9aa6ee408d437e7c5f8cdc8dde",
+    step => "completed",
   }, "Manifest");
   $a->{parsedCmds}[0] = $a->{app};
   $a;
