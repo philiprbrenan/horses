@@ -4,7 +4,7 @@ app horses =an app about horses
   icon = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg
   author=philiprbrenan
   email = philiprbrenan@gmail.com
-# language=en4
+# language=en5
 
 photo 1=one trees
   afewchars=1
