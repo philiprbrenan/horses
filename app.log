@@ -1,19 +1,19 @@
 SUCCESS!
 
-2017-11-14 at 23:35:29 Generate AppaAppsPhotoApp version 20171114-44 philiprbrenan/horses
+2017-11-14 at 23:50:53 Generate AppaAppsPhotoApp version 20171114-55 philiprbrenan/horses
 
-2017-11-14 at 23:35:30 Step: parseSource
-2017-11-14 at 23:35:30 Good source file!
-2017-11-14 at 23:35:30 Step: loadAssets
-2017-11-14 at 23:38:28 Step: multiplyPhotosByFacts
-2017-11-14 at 23:38:28 Step: genJavaManifest
-2017-11-14 at 23:38:28 Step: genJsonManifest
-2017-11-14 at 23:38:28 Step: genGameHtml
-2017-11-14 at 23:38:28 Step: genHtmlAssets
-2017-11-14 at 23:38:28 Step: zipAssets
-2017-11-14 at 23:38:28 Step: compileApp
-2017-11-14 at 23:38:39 Step: copyLinksToGitHub
-2017-11-14 at 23:38:41 Step: copyFilesIntoPositionOnWebServer
+2017-11-14 at 23:50:54 Step: parseSource
+2017-11-14 at 23:50:54 Good source file!
+2017-11-14 at 23:50:54 Step: loadAssets
+2017-11-14 at 23:54:01 Step: multiplyPhotosByFacts
+2017-11-14 at 23:54:01 Step: genJavaManifest
+2017-11-14 at 23:54:01 Step: genJsonManifest
+2017-11-14 at 23:54:01 Step: genGameHtml
+2017-11-14 at 23:54:01 Step: genHtmlAssets
+2017-11-14 at 23:54:01 Step: zipAssets
+2017-11-14 at 23:54:01 Step: compileApp
+2017-11-14 at 23:54:13 Step: copyLinksToGitHub
+2017-11-14 at 23:54:15 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -35,7 +35,7 @@ do {
                          "",
                          "warning: [options] bootstrap class path not set in conjunction with -source 1.7\n1 warning",
                          "",
-                         "libpng error: Read Error\nCrunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
+                         "Crunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
                          "",
                          "",
                          "Enter Passphrase for keystore: jar signed.\n\nWarning: \nNo -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.",
@@ -93,19 +93,19 @@ do {
     error => undef,
     iconFile => "/home/phil/AppaAppsPhotoApp/cache/images/Arabian1.jpg",
     log => [
-      "\n2017-11-14 at 23:35:29 Generate AppaAppsPhotoApp version 20171114-44 philiprbrenan/horses\n",
-      "2017-11-14 at 23:35:30 Step: parseSource",
-      "2017-11-14 at 23:35:30 Good source file!",
-      "2017-11-14 at 23:35:30 Step: loadAssets",
-      "2017-11-14 at 23:38:28 Step: multiplyPhotosByFacts",
-      "2017-11-14 at 23:38:28 Step: genJavaManifest",
-      "2017-11-14 at 23:38:28 Step: genJsonManifest",
-      "2017-11-14 at 23:38:28 Step: genGameHtml",
-      "2017-11-14 at 23:38:28 Step: genHtmlAssets",
-      "2017-11-14 at 23:38:28 Step: zipAssets",
-      "2017-11-14 at 23:38:28 Step: compileApp",
-      "2017-11-14 at 23:38:39 Step: copyLinksToGitHub",
-      "2017-11-14 at 23:38:41 Step: copyFilesIntoPositionOnWebServer",
+      "\n2017-11-14 at 23:50:53 Generate AppaAppsPhotoApp version 20171114-55 philiprbrenan/horses\n",
+      "2017-11-14 at 23:50:54 Step: parseSource",
+      "2017-11-14 at 23:50:54 Good source file!",
+      "2017-11-14 at 23:50:54 Step: loadAssets",
+      "2017-11-14 at 23:54:01 Step: multiplyPhotosByFacts",
+      "2017-11-14 at 23:54:01 Step: genJavaManifest",
+      "2017-11-14 at 23:54:01 Step: genJsonManifest",
+      "2017-11-14 at 23:54:01 Step: genGameHtml",
+      "2017-11-14 at 23:54:01 Step: genHtmlAssets",
+      "2017-11-14 at 23:54:01 Step: zipAssets",
+      "2017-11-14 at 23:54:01 Step: compileApp",
+      "2017-11-14 at 23:54:13 Step: copyLinksToGitHub",
+      "2017-11-14 at 23:54:15 Step: copyFilesIntoPositionOnWebServer",
     ],
     parsedCmds => [
       'fix',
@@ -376,8 +376,8 @@ do {
         titleFile => undef,
       }, "ParsedCmd"),
     ],
-    source => "app horses =an app about horses\n  ordered=yes, this app is ordered although I am not sure that this is necessary in a newSourceFile\n  maximages = 6\n  icon = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg\n  author=philiprbrenan\n  email = philiprbrenan\@gmail.com\n# language=en4\n\nphoto 1=one trees\n  afewchars=1\nphoto 2=two\n  afewchars=2\nphoto 3=three\n  afewchars=3\nphoto 4=four\n  afewchars=4\n\nphoto arab.1= arabian stallion on green grass\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg\n  afewchars=arab\n\nphoto arab.2 = arabian stallion on sand\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian2.jpg\n  afewchars=arab\n\nphoto shetland.1= Shetland pony looking at you\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg\n  afewchars=sp\n\nphoto shetland.2= Shetland pony with saddle\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg\n  afewchars=sp\n\n \nfact arab = Originated in the deserts of the Arabian Peninsula\nfact arab = One of the oldest breeds dating back at least 4,500 years\n\nfact shetland = Small size\nfact shetland = Compact, sturdy build with short legs and a thick coat\nfact shetland.2  = Requires a small saddle in winter\n",
-    sourceFileSha => "02e943103df55e93e62f5b2e91eb4f1d53e2b488",
+    source => "app horses =an app about horses\n  ordered=yes, this app is ordered although I am not sure that this is necessary in a newSourceFile\n  maximages = 6\n  icon = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg\n  author=philiprbrenan\n  email = philiprbrenan\@gmail.com\n# language=en5\n\nphoto 1=one trees\n  afewchars=1\nphoto 2=two\n  afewchars=2\nphoto 3=three\n  afewchars=3\nphoto 4=four\n  afewchars=4\n\nphoto arab.1= arabian stallion on green grass\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg\n  afewchars=arab\n\nphoto arab.2 = arabian stallion on sand\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian2.jpg\n  afewchars=arab\n\nphoto shetland.1= Shetland pony looking at you\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg\n  afewchars=sp\n\nphoto shetland.2= Shetland pony with saddle\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg\n  afewchars=sp\n\n \nfact arab = Originated in the deserts of the Arabian Peninsula\nfact arab = One of the oldest breeds dating back at least 4,500 years\n\nfact shetland = Small size\nfact shetland = Compact, sturdy build with short legs and a thick coat\nfact shetland.2  = Requires a small saddle in winter\n",
+    sourceFileSha => "322f439853b30b4f616ba9349c99a5057e5f5195",
     step => "completed",
   }, "Manifest");
   $a->{parsedCmds}[0] = $a->{app};
