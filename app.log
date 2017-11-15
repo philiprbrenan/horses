@@ -1,111 +1,404 @@
-SUCCESS!
+Failed.
 
-2017-11-14 at 23:57:51 Generate AppaAppsPhotoApp version 20171114-55 philiprbrenan/horses
+2017-11-15 at 00:14:15 Generate AppaAppsPhotoApp version 20171114-66 philiprbrenan/horses
 
-2017-11-14 at 23:57:53 Step: parseSource
-2017-11-14 at 23:57:53 Good source file!
-2017-11-14 at 23:57:53 Step: loadAssets
-2017-11-14 at 23:57:55 Step: multiplyPhotosByFacts
-2017-11-14 at 23:57:55 Step: genJavaManifest
-2017-11-14 at 23:57:55 Step: genJsonManifest
-2017-11-14 at 23:57:55 Step: genGameHtml
-2017-11-14 at 23:57:55 Step: genHtmlAssets
-2017-11-14 at 23:57:55 Step: zipAssets
-2017-11-14 at 23:57:55 Step: compileApp
-2017-11-14 at 23:58:08 Step: copyLinksToGitHub
-2017-11-14 at 23:58:09 Step: copyFilesIntoPositionOnWebServer
+2017-11-15 at 00:14:16 Step: parseSource
+2017-11-15 at 00:14:16 Good source file!
+2017-11-15 at 00:14:16 Step: loadAssets
+2017-11-15 at 00:14:20 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?
+2017-11-15 at 00:14:21 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?
+2017-11-15 at 00:14:22 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/Smallsize.mp3 exist?
+2017-11-15 at 00:14:23 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?
+2017-11-15 at 00:14:24 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/Requiresasmallsaddleinwinter.mp3 exist?
+2017-11-15 at 00:14:25 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/onetrees.mp3 exist?
+2017-11-15 at 00:14:26 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/two.mp3 exist?
+2017-11-15 at 00:14:27 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/three.mp3 exist?
+2017-11-15 at 00:14:28 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/four.mp3 exist?
+2017-11-15 at 00:14:28 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/arabianstallionongreengrass.mp3 exist?
+2017-11-15 at 00:14:30 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/arabianstalliononsand.mp3 exist?
+2017-11-15 at 00:14:31 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/Shetlandponylookingatyou.mp3 exist?
+2017-11-15 at 00:14:32 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/Shetlandponywithsaddle.mp3 exist?
+2017-11-15 at 00:14:33 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?
+2017-11-15 at 00:14:34 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?
+2017-11-15 at 00:14:35 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/Smallsize.mp3 exist?
+2017-11-15 at 00:14:36 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?
+2017-11-15 at 00:14:37 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/Requiresasmallsaddleinwinter.mp3 exist?
+2017-11-15 at 00:14:38 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/onetrees.mp3 exist?
+2017-11-15 at 00:14:39 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/two.mp3 exist?
+2017-11-15 at 00:14:40 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/three.mp3 exist?
+2017-11-15 at 00:14:41 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/four.mp3 exist?
+2017-11-15 at 00:14:42 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/arabianstallionongreengrass.mp3 exist?
+2017-11-15 at 00:14:43 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/arabianstalliononsand.mp3 exist?
+2017-11-15 at 00:14:44 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/Shetlandponylookingatyou.mp3 exist?
+2017-11-15 at 00:14:45 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/Shetlandponywithsaddle.mp3 exist?
+2017-11-15 at 00:14:46 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?
+2017-11-15 at 00:14:47 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?
+2017-11-15 at 00:14:48 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/Smallsize.mp3 exist?
+2017-11-15 at 00:14:49 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?
+2017-11-15 at 00:14:50 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/Requiresasmallsaddleinwinter.mp3 exist?
+2017-11-15 at 00:14:51 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/onetrees.mp3 exist?
+2017-11-15 at 00:14:52 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/two.mp3 exist?
+2017-11-15 at 00:14:52 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/three.mp3 exist?
+2017-11-15 at 00:14:53 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/four.mp3 exist?
+2017-11-15 at 00:14:54 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/arabianstallionongreengrass.mp3 exist?
+2017-11-15 at 00:14:55 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/arabianstalliononsand.mp3 exist?
+2017-11-15 at 00:14:56 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/Shetlandponylookingatyou.mp3 exist?
+2017-11-15 at 00:14:57 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/Shetlandponywithsaddle.mp3 exist?
+2017-11-15 at 00:14:58 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?
+2017-11-15 at 00:14:59 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?
+2017-11-15 at 00:15:00 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/Smallsize.mp3 exist?
+2017-11-15 at 00:15:01 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?
+2017-11-15 at 00:15:02 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/Requiresasmallsaddleinwinter.mp3 exist?
+2017-11-15 at 00:15:03 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/onetrees.mp3 exist?
+2017-11-15 at 00:15:04 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/two.mp3 exist?
+2017-11-15 at 00:15:05 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/three.mp3 exist?
+2017-11-15 at 00:15:06 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/four.mp3 exist?
+2017-11-15 at 00:15:07 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/arabianstallionongreengrass.mp3 exist?
+2017-11-15 at 00:15:08 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/arabianstalliononsand.mp3 exist?
+2017-11-15 at 00:15:09 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/Shetlandponylookingatyou.mp3 exist?
+2017-11-15 at 00:15:10 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/Shetlandponywithsaddle.mp3 exist?
+2017-11-15 at 00:15:11 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?
+2017-11-15 at 00:15:12 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?
+2017-11-15 at 00:15:13 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/Smallsize.mp3 exist?
+2017-11-15 at 00:15:14 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?
+2017-11-15 at 00:15:15 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/Requiresasmallsaddleinwinter.mp3 exist?
+2017-11-15 at 00:15:16 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/onetrees.mp3 exist?
+2017-11-15 at 00:15:16 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/two.mp3 exist?
+2017-11-15 at 00:15:17 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/three.mp3 exist?
+2017-11-15 at 00:15:18 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/four.mp3 exist?
+2017-11-15 at 00:15:19 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/arabianstallionongreengrass.mp3 exist?
+2017-11-15 at 00:15:20 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/arabianstalliononsand.mp3 exist?
+2017-11-15 at 00:15:21 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/Shetlandponylookingatyou.mp3 exist?
+2017-11-15 at 00:15:22 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/Shetlandponywithsaddle.mp3 exist?
+2017-11-15 at 00:15:23 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?
+2017-11-15 at 00:15:24 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?
+2017-11-15 at 00:15:25 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/Smallsize.mp3 exist?
+2017-11-15 at 00:15:26 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?
+2017-11-15 at 00:15:27 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/Requiresasmallsaddleinwinter.mp3 exist?
+2017-11-15 at 00:15:28 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/onetrees.mp3 exist?
+2017-11-15 at 00:15:29 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/two.mp3 exist?
+2017-11-15 at 00:15:29 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/three.mp3 exist?
+2017-11-15 at 00:15:30 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/four.mp3 exist?
+2017-11-15 at 00:15:31 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/arabianstallionongreengrass.mp3 exist?
+2017-11-15 at 00:15:32 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/arabianstalliononsand.mp3 exist?
+2017-11-15 at 00:15:33 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/Shetlandponylookingatyou.mp3 exist?
+2017-11-15 at 00:15:34 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/Shetlandponywithsaddle.mp3 exist?
+2017-11-15 at 00:15:35 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?
+2017-11-15 at 00:15:36 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?
+2017-11-15 at 00:15:37 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/Smallsize.mp3 exist?
+2017-11-15 at 00:15:38 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?
+2017-11-15 at 00:15:40 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/Requiresasmallsaddleinwinter.mp3 exist?
+2017-11-15 at 00:15:41 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/onetrees.mp3 exist?
+2017-11-15 at 00:15:41 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/two.mp3 exist?
+2017-11-15 at 00:15:42 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/three.mp3 exist?
+2017-11-15 at 00:15:43 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/four.mp3 exist?
+2017-11-15 at 00:15:44 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/arabianstallionongreengrass.mp3 exist?
+2017-11-15 at 00:15:45 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/arabianstalliononsand.mp3 exist?
+2017-11-15 at 00:15:46 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/Shetlandponylookingatyou.mp3 exist?
+2017-11-15 at 00:15:47 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/Shetlandponywithsaddle.mp3 exist?
+2017-11-15 at 00:15:48 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?
+2017-11-15 at 00:15:49 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?
+2017-11-15 at 00:15:50 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/Smallsize.mp3 exist?
+2017-11-15 at 00:15:51 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?
+2017-11-15 at 00:15:52 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/Requiresasmallsaddleinwinter.mp3 exist?
+2017-11-15 at 00:15:53 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/onetrees.mp3 exist?
+2017-11-15 at 00:15:54 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/two.mp3 exist?
+2017-11-15 at 00:15:55 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/three.mp3 exist?
+2017-11-15 at 00:15:56 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/four.mp3 exist?
+2017-11-15 at 00:15:57 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/arabianstallionongreengrass.mp3 exist?
+2017-11-15 at 00:15:58 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/arabianstalliononsand.mp3 exist?
+2017-11-15 at 00:15:59 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/Shetlandponylookingatyou.mp3 exist?
+2017-11-15 at 00:15:59 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/Shetlandponywithsaddle.mp3 exist?
+2017-11-15 at 00:16:00 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?
+2017-11-15 at 00:16:02 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?
+2017-11-15 at 00:16:03 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/Smallsize.mp3 exist?
+2017-11-15 at 00:16:04 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?
+2017-11-15 at 00:16:05 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/Requiresasmallsaddleinwinter.mp3 exist?
+2017-11-15 at 00:16:06 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/onetrees.mp3 exist?
+2017-11-15 at 00:16:07 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/two.mp3 exist?
+2017-11-15 at 00:16:07 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/three.mp3 exist?
+2017-11-15 at 00:16:08 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/four.mp3 exist?
+2017-11-15 at 00:16:09 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/arabianstallionongreengrass.mp3 exist?
+2017-11-15 at 00:16:10 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/arabianstalliononsand.mp3 exist?
+2017-11-15 at 00:16:11 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/Shetlandponylookingatyou.mp3 exist?
+2017-11-15 at 00:16:12 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/Shetlandponywithsaddle.mp3 exist?
+2017-11-15 at 00:16:13 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?
+2017-11-15 at 00:16:14 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?
+2017-11-15 at 00:16:15 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/Smallsize.mp3 exist?
+2017-11-15 at 00:16:16 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?
+2017-11-15 at 00:16:18 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/Requiresasmallsaddleinwinter.mp3 exist?
+2017-11-15 at 00:16:19 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/onetrees.mp3 exist?
+2017-11-15 at 00:16:19 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/two.mp3 exist?
+2017-11-15 at 00:16:20 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/three.mp3 exist?
+2017-11-15 at 00:16:21 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/four.mp3 exist?
+2017-11-15 at 00:16:22 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/arabianstallionongreengrass.mp3 exist?
+2017-11-15 at 00:16:23 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/arabianstalliononsand.mp3 exist?
+2017-11-15 at 00:16:24 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/Shetlandponylookingatyou.mp3 exist?
+2017-11-15 at 00:16:25 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/Shetlandponywithsaddle.mp3 exist?
+2017-11-15 at 00:16:26 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?
+2017-11-15 at 00:16:27 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?
+2017-11-15 at 00:16:28 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/Smallsize.mp3 exist?
+2017-11-15 at 00:16:29 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?
+2017-11-15 at 00:16:30 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/Requiresasmallsaddleinwinter.mp3 exist?
+2017-11-15 at 00:16:31 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/onetrees.mp3 exist?
+2017-11-15 at 00:16:32 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/two.mp3 exist?
+2017-11-15 at 00:16:33 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/three.mp3 exist?
+2017-11-15 at 00:16:34 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/four.mp3 exist?
+2017-11-15 at 00:16:35 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/arabianstallionongreengrass.mp3 exist?
+2017-11-15 at 00:16:35 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/arabianstalliononsand.mp3 exist?
+2017-11-15 at 00:16:36 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/Shetlandponylookingatyou.mp3 exist?
+2017-11-15 at 00:16:37 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/Shetlandponywithsaddle.mp3 exist?
+2017-11-15 at 00:16:38 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?
+2017-11-15 at 00:16:39 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?
+2017-11-15 at 00:16:41 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/Smallsize.mp3 exist?
+2017-11-15 at 00:16:41 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?
+2017-11-15 at 00:16:42 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/Requiresasmallsaddleinwinter.mp3 exist?
+2017-11-15 at 00:16:43 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/onetrees.mp3 exist?
+2017-11-15 at 00:16:44 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/two.mp3 exist?
+2017-11-15 at 00:16:45 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/three.mp3 exist?
+2017-11-15 at 00:16:46 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/four.mp3 exist?
+2017-11-15 at 00:16:47 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/arabianstallionongreengrass.mp3 exist?
+2017-11-15 at 00:16:48 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/arabianstalliononsand.mp3 exist?
+2017-11-15 at 00:16:49 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/Shetlandponylookingatyou.mp3 exist?
+2017-11-15 at 00:16:50 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/Shetlandponywithsaddle.mp3 exist?
+2017-11-15 at 00:16:51 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?
+2017-11-15 at 00:16:52 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?
+2017-11-15 at 00:16:53 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/Smallsize.mp3 exist?
+2017-11-15 at 00:16:54 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?
+2017-11-15 at 00:16:55 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/Requiresasmallsaddleinwinter.mp3 exist?
+2017-11-15 at 00:16:56 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/onetrees.mp3 exist?
+2017-11-15 at 00:16:57 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/two.mp3 exist?
+2017-11-15 at 00:16:58 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/three.mp3 exist?
+2017-11-15 at 00:16:58 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/four.mp3 exist?
+2017-11-15 at 00:16:59 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/arabianstallionongreengrass.mp3 exist?
+2017-11-15 at 00:17:00 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/arabianstalliononsand.mp3 exist?
+2017-11-15 at 00:17:01 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/Shetlandponylookingatyou.mp3 exist?
+2017-11-15 at 00:17:02 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/Shetlandponywithsaddle.mp3 exist?
+2017-11-15 at 00:17:03 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?
+2017-11-15 at 00:17:04 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?
+2017-11-15 at 00:17:05 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/Smallsize.mp3 exist?
+2017-11-15 at 00:17:06 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?
+2017-11-15 at 00:17:07 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/Requiresasmallsaddleinwinter.mp3 exist?
+2017-11-15 at 00:17:08 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/onetrees.mp3 exist?
+2017-11-15 at 00:17:09 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/two.mp3 exist?
+2017-11-15 at 00:17:10 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/three.mp3 exist?
+2017-11-15 at 00:17:11 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/four.mp3 exist?
+2017-11-15 at 00:17:12 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/arabianstallionongreengrass.mp3 exist?
+2017-11-15 at 00:17:13 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/arabianstalliononsand.mp3 exist?
+2017-11-15 at 00:17:13 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/Shetlandponylookingatyou.mp3 exist?
+2017-11-15 at 00:17:14 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/Shetlandponywithsaddle.mp3 exist?
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
-    android => bless({
-      action        => "run",
-      activity      => "Activity",
-      buildFolder   => "/tmp/AppaAppsPhotoApp/build/",
-      buildTools    => "/home/phil/Android/sdk/build-tools/25.0.3/",
-      debug         => 0,
-      device        => "emulator-5554",
-      editSource    => undef,
-      home          => "/home/phil/AppaAppsPhotoApp/",
-      icon          => "/home/phil/AppaAppsPhotoApp/cache/images/Arabian1.jpg",
-      keyAlias      => "genApp",
-      keyStoreFile  => "/home/phil/AppaAppsPhotoApp/keys/genApp.keystore",
-      keyStorePwd   => "genApp",
-      libs          => [],
-      log           => [
-                         "",
-                         "warning: [options] bootstrap class path not set in conjunction with -source 1.7\n1 warning",
-                         "",
-                         "Crunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
-                         "",
-                         "",
-                         "Enter Passphrase for keystore: jar signed.\n\nWarning: \nNo -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.",
-                         "\njar verified.\n\nWarning: \nThis jar contains entries whose certificate chain is not validated.\nThis jar contains signatures that does not include a timestamp. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.\n\nRe-run with the -verbose and -certs options for more details.",
-                       ],
-      package       => "com.appaapps.photoapp.horses",
-      parameters    => "philiprbrenan,horses,http://www.appaapps.com/users/philiprbrenan/horses/zip/horses.zip",
-      permissions   => ["INTERNET", "ACCESS_NETWORK_STATE"],
-      platform      => "/home/phil/Android/sdk/platforms/android-25/",
-      platformTools => "/home/phil/Android/sdk/platform-tools/",
-      sdkLevels     => [15, 25],
-      src           => [
-                         "/home/phil/java/appState/AppState.java",
-                         "/home/phil/java/choices/Choices.java",
-                         "/home/phil/java/coloursTransformed/ColoursTransformed.java",
-                         "/home/phil/java/download/Download.java",
-                         "/home/phil/java/email/Email.java",
-                         "/home/phil/java/fourier/Fourier.java",
-                         "/home/phil/java/gradients/Gradients.java",
-                         "/home/phil/java/log/Log.java",
-                         "/home/phil/java/maths/Maths.java",
-                         "/home/phil/java/randomChoice/RandomChoice.java",
-                         "/home/phil/java/save/Save.java",
-                         "/home/phil/java/sound/Midi.java",
-                         "/home/phil/java/sound/Speech.java",
-                         "/home/phil/java/svg/Svg.java",
-                         "/home/phil/java/unpackappdescription/Unpackappdescription.java",
-                         "/home/phil/java/upload/UploadStream.java",
-                         "/home/phil/java/unzip/Unzip.java",
-                       ],
-      title         => "an app about horses",
-      version       => 20171114,
-    }, "Android::Build"),
     app => bless({
-      cmd => "app",
-      end => 6,
-      index => 0,
-      name => "horses",
+      cmd        => "app",
+      end        => 6,
+      index      => 0,
+      name       => "horses",
       parsedKeys => bless({
-        author    => "philiprbrenan",
-        cmd       => "app",
-        email     => "philiprbrenan\@gmail.com",
-        icon      => "https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg",
-        language  => "en",
-        maximages => 6,
-        name      => "horses",
-        ordered   => "yes, this app is ordered although I am not sure that this is necessary in a newSourceFile",
-        speakers  => "Amy Brian Emma Geraint Ivy Joanna Joey Justin Kendra Kimberly Nicole Raveena Russell Salli",
-        title     => "an app about horses",
-      }, "ParsedKeys"),
-      start => 1,
-      title => "an app about horses",
-      titleFile => undef,
+                      author    => "philiprbrenan",
+                      cmd       => "app",
+                      email     => "philiprbrenan\@gmail.com",
+                      icon      => "https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg",
+                      language  => "en",
+                      maximages => 6,
+                      name      => "horses",
+                      ordered   => "yes, this app is ordered although I am not sure that this is necessary in a newSourceFile",
+                      speakers  => "Amy Brian Emma Geraint Ivy Joanna Joey Justin Kendra Kimberly Nicole Raveena Russell Salli",
+                      title     => "an app about horses",
+                    }, "ParsedKeys"),
+      start      => 1,
+      title      => "an app about horses",
     }, "ParsedCmd"),
-    error => undef,
+    error => 182,
     iconFile => "/home/phil/AppaAppsPhotoApp/cache/images/Arabian1.jpg",
     log => [
-      "\n2017-11-14 at 23:57:51 Generate AppaAppsPhotoApp version 20171114-55 philiprbrenan/horses\n",
-      "2017-11-14 at 23:57:53 Step: parseSource",
-      "2017-11-14 at 23:57:53 Good source file!",
-      "2017-11-14 at 23:57:53 Step: loadAssets",
-      "2017-11-14 at 23:57:55 Step: multiplyPhotosByFacts",
-      "2017-11-14 at 23:57:55 Step: genJavaManifest",
-      "2017-11-14 at 23:57:55 Step: genJsonManifest",
-      "2017-11-14 at 23:57:55 Step: genGameHtml",
-      "2017-11-14 at 23:57:55 Step: genHtmlAssets",
-      "2017-11-14 at 23:57:55 Step: zipAssets",
-      "2017-11-14 at 23:57:55 Step: compileApp",
-      "2017-11-14 at 23:58:08 Step: copyLinksToGitHub",
-      "2017-11-14 at 23:58:09 Step: copyFilesIntoPositionOnWebServer",
+      "\n2017-11-15 at 00:14:15 Generate AppaAppsPhotoApp version 20171114-66 philiprbrenan/horses\n",
+      "2017-11-15 at 00:14:16 Step: parseSource",
+      "2017-11-15 at 00:14:16 Good source file!",
+      "2017-11-15 at 00:14:16 Step: loadAssets",
+      "2017-11-15 at 00:14:20 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?",
+      "2017-11-15 at 00:14:21 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?",
+      "2017-11-15 at 00:14:22 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/Smallsize.mp3 exist?",
+      "2017-11-15 at 00:14:23 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?",
+      "2017-11-15 at 00:14:24 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/Requiresasmallsaddleinwinter.mp3 exist?",
+      "2017-11-15 at 00:14:25 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/onetrees.mp3 exist?",
+      "2017-11-15 at 00:14:26 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/two.mp3 exist?",
+      "2017-11-15 at 00:14:27 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/three.mp3 exist?",
+      "2017-11-15 at 00:14:28 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/four.mp3 exist?",
+      "2017-11-15 at 00:14:28 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/arabianstallionongreengrass.mp3 exist?",
+      "2017-11-15 at 00:14:30 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/arabianstalliononsand.mp3 exist?",
+      "2017-11-15 at 00:14:31 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/Shetlandponylookingatyou.mp3 exist?",
+      "2017-11-15 at 00:14:32 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Amy/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Amy/Shetlandponywithsaddle.mp3 exist?",
+      "2017-11-15 at 00:14:33 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?",
+      "2017-11-15 at 00:14:34 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?",
+      "2017-11-15 at 00:14:35 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/Smallsize.mp3 exist?",
+      "2017-11-15 at 00:14:36 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?",
+      "2017-11-15 at 00:14:37 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/Requiresasmallsaddleinwinter.mp3 exist?",
+      "2017-11-15 at 00:14:38 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/onetrees.mp3 exist?",
+      "2017-11-15 at 00:14:39 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/two.mp3 exist?",
+      "2017-11-15 at 00:14:40 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/three.mp3 exist?",
+      "2017-11-15 at 00:14:41 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/four.mp3 exist?",
+      "2017-11-15 at 00:14:42 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/arabianstallionongreengrass.mp3 exist?",
+      "2017-11-15 at 00:14:43 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/arabianstalliononsand.mp3 exist?",
+      "2017-11-15 at 00:14:44 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/Shetlandponylookingatyou.mp3 exist?",
+      "2017-11-15 at 00:14:45 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Brian/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Brian/Shetlandponywithsaddle.mp3 exist?",
+      "2017-11-15 at 00:14:46 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?",
+      "2017-11-15 at 00:14:47 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?",
+      "2017-11-15 at 00:14:48 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/Smallsize.mp3 exist?",
+      "2017-11-15 at 00:14:49 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?",
+      "2017-11-15 at 00:14:50 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/Requiresasmallsaddleinwinter.mp3 exist?",
+      "2017-11-15 at 00:14:51 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/onetrees.mp3 exist?",
+      "2017-11-15 at 00:14:52 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/two.mp3 exist?",
+      "2017-11-15 at 00:14:52 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/three.mp3 exist?",
+      "2017-11-15 at 00:14:53 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/four.mp3 exist?",
+      "2017-11-15 at 00:14:54 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/arabianstallionongreengrass.mp3 exist?",
+      "2017-11-15 at 00:14:55 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/arabianstalliononsand.mp3 exist?",
+      "2017-11-15 at 00:14:56 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/Shetlandponylookingatyou.mp3 exist?",
+      "2017-11-15 at 00:14:57 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Emma/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Emma/Shetlandponywithsaddle.mp3 exist?",
+      "2017-11-15 at 00:14:58 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?",
+      "2017-11-15 at 00:14:59 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?",
+      "2017-11-15 at 00:15:00 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/Smallsize.mp3 exist?",
+      "2017-11-15 at 00:15:01 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?",
+      "2017-11-15 at 00:15:02 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/Requiresasmallsaddleinwinter.mp3 exist?",
+      "2017-11-15 at 00:15:03 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/onetrees.mp3 exist?",
+      "2017-11-15 at 00:15:04 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/two.mp3 exist?",
+      "2017-11-15 at 00:15:05 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/three.mp3 exist?",
+      "2017-11-15 at 00:15:06 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/four.mp3 exist?",
+      "2017-11-15 at 00:15:07 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/arabianstallionongreengrass.mp3 exist?",
+      "2017-11-15 at 00:15:08 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/arabianstalliononsand.mp3 exist?",
+      "2017-11-15 at 00:15:09 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/Shetlandponylookingatyou.mp3 exist?",
+      "2017-11-15 at 00:15:10 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Geraint/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Geraint/Shetlandponywithsaddle.mp3 exist?",
+      "2017-11-15 at 00:15:11 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?",
+      "2017-11-15 at 00:15:12 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?",
+      "2017-11-15 at 00:15:13 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/Smallsize.mp3 exist?",
+      "2017-11-15 at 00:15:14 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?",
+      "2017-11-15 at 00:15:15 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/Requiresasmallsaddleinwinter.mp3 exist?",
+      "2017-11-15 at 00:15:16 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/onetrees.mp3 exist?",
+      "2017-11-15 at 00:15:16 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/two.mp3 exist?",
+      "2017-11-15 at 00:15:17 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/three.mp3 exist?",
+      "2017-11-15 at 00:15:18 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/four.mp3 exist?",
+      "2017-11-15 at 00:15:19 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/arabianstallionongreengrass.mp3 exist?",
+      "2017-11-15 at 00:15:20 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/arabianstalliononsand.mp3 exist?",
+      "2017-11-15 at 00:15:21 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/Shetlandponylookingatyou.mp3 exist?",
+      "2017-11-15 at 00:15:22 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Ivy/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Ivy/Shetlandponywithsaddle.mp3 exist?",
+      "2017-11-15 at 00:15:23 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?",
+      "2017-11-15 at 00:15:24 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?",
+      "2017-11-15 at 00:15:25 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/Smallsize.mp3 exist?",
+      "2017-11-15 at 00:15:26 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?",
+      "2017-11-15 at 00:15:27 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/Requiresasmallsaddleinwinter.mp3 exist?",
+      "2017-11-15 at 00:15:28 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/onetrees.mp3 exist?",
+      "2017-11-15 at 00:15:29 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/two.mp3 exist?",
+      "2017-11-15 at 00:15:29 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/three.mp3 exist?",
+      "2017-11-15 at 00:15:30 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/four.mp3 exist?",
+      "2017-11-15 at 00:15:31 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/arabianstallionongreengrass.mp3 exist?",
+      "2017-11-15 at 00:15:32 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/arabianstalliononsand.mp3 exist?",
+      "2017-11-15 at 00:15:33 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/Shetlandponylookingatyou.mp3 exist?",
+      "2017-11-15 at 00:15:34 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joanna/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joanna/Shetlandponywithsaddle.mp3 exist?",
+      "2017-11-15 at 00:15:35 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?",
+      "2017-11-15 at 00:15:36 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?",
+      "2017-11-15 at 00:15:37 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/Smallsize.mp3 exist?",
+      "2017-11-15 at 00:15:38 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?",
+      "2017-11-15 at 00:15:40 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/Requiresasmallsaddleinwinter.mp3 exist?",
+      "2017-11-15 at 00:15:41 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/onetrees.mp3 exist?",
+      "2017-11-15 at 00:15:41 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/two.mp3 exist?",
+      "2017-11-15 at 00:15:42 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/three.mp3 exist?",
+      "2017-11-15 at 00:15:43 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/four.mp3 exist?",
+      "2017-11-15 at 00:15:44 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/arabianstallionongreengrass.mp3 exist?",
+      "2017-11-15 at 00:15:45 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/arabianstalliononsand.mp3 exist?",
+      "2017-11-15 at 00:15:46 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/Shetlandponylookingatyou.mp3 exist?",
+      "2017-11-15 at 00:15:47 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Joey/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Joey/Shetlandponywithsaddle.mp3 exist?",
+      "2017-11-15 at 00:15:48 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?",
+      "2017-11-15 at 00:15:49 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?",
+      "2017-11-15 at 00:15:50 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/Smallsize.mp3 exist?",
+      "2017-11-15 at 00:15:51 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?",
+      "2017-11-15 at 00:15:52 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/Requiresasmallsaddleinwinter.mp3 exist?",
+      "2017-11-15 at 00:15:53 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/onetrees.mp3 exist?",
+      "2017-11-15 at 00:15:54 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/two.mp3 exist?",
+      "2017-11-15 at 00:15:55 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/three.mp3 exist?",
+      "2017-11-15 at 00:15:56 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/four.mp3 exist?",
+      "2017-11-15 at 00:15:57 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/arabianstallionongreengrass.mp3 exist?",
+      "2017-11-15 at 00:15:58 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/arabianstalliononsand.mp3 exist?",
+      "2017-11-15 at 00:15:59 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/Shetlandponylookingatyou.mp3 exist?",
+      "2017-11-15 at 00:15:59 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Justin/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Justin/Shetlandponywithsaddle.mp3 exist?",
+      "2017-11-15 at 00:16:00 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?",
+      "2017-11-15 at 00:16:02 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?",
+      "2017-11-15 at 00:16:03 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/Smallsize.mp3 exist?",
+      "2017-11-15 at 00:16:04 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?",
+      "2017-11-15 at 00:16:05 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/Requiresasmallsaddleinwinter.mp3 exist?",
+      "2017-11-15 at 00:16:06 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/onetrees.mp3 exist?",
+      "2017-11-15 at 00:16:07 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/two.mp3 exist?",
+      "2017-11-15 at 00:16:07 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/three.mp3 exist?",
+      "2017-11-15 at 00:16:08 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/four.mp3 exist?",
+      "2017-11-15 at 00:16:09 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/arabianstallionongreengrass.mp3 exist?",
+      "2017-11-15 at 00:16:10 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/arabianstalliononsand.mp3 exist?",
+      "2017-11-15 at 00:16:11 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/Shetlandponylookingatyou.mp3 exist?",
+      "2017-11-15 at 00:16:12 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kendra/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kendra/Shetlandponywithsaddle.mp3 exist?",
+      "2017-11-15 at 00:16:13 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?",
+      "2017-11-15 at 00:16:14 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?",
+      "2017-11-15 at 00:16:15 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/Smallsize.mp3 exist?",
+      "2017-11-15 at 00:16:16 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?",
+      "2017-11-15 at 00:16:18 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/Requiresasmallsaddleinwinter.mp3 exist?",
+      "2017-11-15 at 00:16:19 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/onetrees.mp3 exist?",
+      "2017-11-15 at 00:16:19 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/two.mp3 exist?",
+      "2017-11-15 at 00:16:20 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/three.mp3 exist?",
+      "2017-11-15 at 00:16:21 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/four.mp3 exist?",
+      "2017-11-15 at 00:16:22 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/arabianstallionongreengrass.mp3 exist?",
+      "2017-11-15 at 00:16:23 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/arabianstalliononsand.mp3 exist?",
+      "2017-11-15 at 00:16:24 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/Shetlandponylookingatyou.mp3 exist?",
+      "2017-11-15 at 00:16:25 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Kimberly/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Kimberly/Shetlandponywithsaddle.mp3 exist?",
+      "2017-11-15 at 00:16:26 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?",
+      "2017-11-15 at 00:16:27 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?",
+      "2017-11-15 at 00:16:28 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/Smallsize.mp3 exist?",
+      "2017-11-15 at 00:16:29 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?",
+      "2017-11-15 at 00:16:30 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/Requiresasmallsaddleinwinter.mp3 exist?",
+      "2017-11-15 at 00:16:31 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/onetrees.mp3 exist?",
+      "2017-11-15 at 00:16:32 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/two.mp3 exist?",
+      "2017-11-15 at 00:16:33 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/three.mp3 exist?",
+      "2017-11-15 at 00:16:34 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/four.mp3 exist?",
+      "2017-11-15 at 00:16:35 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/arabianstallionongreengrass.mp3 exist?",
+      "2017-11-15 at 00:16:35 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/arabianstalliononsand.mp3 exist?",
+      "2017-11-15 at 00:16:36 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/Shetlandponylookingatyou.mp3 exist?",
+      "2017-11-15 at 00:16:37 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Nicole/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Nicole/Shetlandponywithsaddle.mp3 exist?",
+      "2017-11-15 at 00:16:38 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?",
+      "2017-11-15 at 00:16:39 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?",
+      "2017-11-15 at 00:16:41 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/Smallsize.mp3 exist?",
+      "2017-11-15 at 00:16:41 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?",
+      "2017-11-15 at 00:16:42 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/Requiresasmallsaddleinwinter.mp3 exist?",
+      "2017-11-15 at 00:16:43 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/onetrees.mp3 exist?",
+      "2017-11-15 at 00:16:44 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/two.mp3 exist?",
+      "2017-11-15 at 00:16:45 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/three.mp3 exist?",
+      "2017-11-15 at 00:16:46 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/four.mp3 exist?",
+      "2017-11-15 at 00:16:47 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/arabianstallionongreengrass.mp3 exist?",
+      "2017-11-15 at 00:16:48 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/arabianstalliononsand.mp3 exist?",
+      "2017-11-15 at 00:16:49 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/Shetlandponylookingatyou.mp3 exist?",
+      "2017-11-15 at 00:16:50 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Raveena/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Raveena/Shetlandponywithsaddle.mp3 exist?",
+      "2017-11-15 at 00:16:51 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?",
+      "2017-11-15 at 00:16:52 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?",
+      "2017-11-15 at 00:16:53 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/Smallsize.mp3 exist?",
+      "2017-11-15 at 00:16:54 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?",
+      "2017-11-15 at 00:16:55 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/Requiresasmallsaddleinwinter.mp3 exist?",
+      "2017-11-15 at 00:16:56 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/onetrees.mp3 exist?",
+      "2017-11-15 at 00:16:57 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/two.mp3 exist?",
+      "2017-11-15 at 00:16:58 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/three.mp3 exist?",
+      "2017-11-15 at 00:16:58 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/four.mp3 exist?",
+      "2017-11-15 at 00:16:59 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/arabianstallionongreengrass.mp3 exist?",
+      "2017-11-15 at 00:17:00 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/arabianstalliononsand.mp3 exist?",
+      "2017-11-15 at 00:17:01 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/Shetlandponylookingatyou.mp3 exist?",
+      "2017-11-15 at 00:17:02 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Russell/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Russell/Shetlandponywithsaddle.mp3 exist?",
+      "2017-11-15 at 00:17:03 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/OriginatedinthedesertsoftheArabianPeninsula.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/OriginatedinthedesertsoftheArabianPeninsula.mp3 exist?",
+      "2017-11-15 at 00:17:04 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/Oneoftheoldestbreedsdatingbackatleast4500years.mp3 exist?",
+      "2017-11-15 at 00:17:05 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/Smallsize.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/Smallsize.mp3 exist?",
+      "2017-11-15 at 00:17:06 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/Compactsturdybuildwithshortlegsandathickcoat.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/Compactsturdybuildwithshortlegsandathickcoat.mp3 exist?",
+      "2017-11-15 at 00:17:07 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/Requiresasmallsaddleinwinter.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/Requiresasmallsaddleinwinter.mp3 exist?",
+      "2017-11-15 at 00:17:08 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/onetrees.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/onetrees.mp3 exist?",
+      "2017-11-15 at 00:17:09 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/two.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/two.mp3 exist?",
+      "2017-11-15 at 00:17:10 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/three.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/three.mp3 exist?",
+      "2017-11-15 at 00:17:11 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/four.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/four.mp3 exist?",
+      "2017-11-15 at 00:17:12 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/arabianstallionongreengrass.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/arabianstallionongreengrass.mp3 exist?",
+      "2017-11-15 at 00:17:13 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/arabianstalliononsand.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/arabianstalliononsand.mp3 exist?",
+      "2017-11-15 at 00:17:13 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/Shetlandponylookingatyou.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/Shetlandponylookingatyou.mp3 exist?",
+      "2017-11-15 at 00:17:14 Neither /home/phil/AppaAppsPhotoApp/cache/audio/Salli/Shetlandponywithsaddle.mp3 or /tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/assets/audio/Salli/Shetlandponywithsaddle.mp3 exist?",
     ],
     parsedCmds => [
       'fix',
@@ -312,73 +605,10 @@ do {
         title => "Requires a small saddle in winter",
         titleFile => "Requiresasmallsaddleinwinter",
       }, "ParsedCmd"),
-      bless({
-        cmd => "photoFact",
-        name => 4,
-        parsedKeys => bless({ cmd => "photoFact", name => 4, title => 0 }, "ParsedKeys"),
-        title => 0,
-        titleFile => undef,
-      }, "ParsedCmd"),
-      bless({
-        cmd => "photoFact",
-        name => 4,
-        parsedKeys => bless({ cmd => "photoFact", name => 4, title => 1 }, "ParsedKeys"),
-        title => 1,
-        titleFile => undef,
-      }, "ParsedCmd"),
-      bless({
-        cmd => "photoFact",
-        name => 5,
-        parsedKeys => bless({ cmd => "photoFact", name => 5, title => 0 }, "ParsedKeys"),
-        title => 0,
-        titleFile => undef,
-      }, "ParsedCmd"),
-      bless({
-        cmd => "photoFact",
-        name => 5,
-        parsedKeys => bless({ cmd => "photoFact", name => 5, title => 1 }, "ParsedKeys"),
-        title => 1,
-        titleFile => undef,
-      }, "ParsedCmd"),
-      bless({
-        cmd => "photoFact",
-        name => 6,
-        parsedKeys => bless({ cmd => "photoFact", name => 6, title => 2 }, "ParsedKeys"),
-        title => 2,
-        titleFile => undef,
-      }, "ParsedCmd"),
-      bless({
-        cmd => "photoFact",
-        name => 6,
-        parsedKeys => bless({ cmd => "photoFact", name => 6, title => 3 }, "ParsedKeys"),
-        title => 3,
-        titleFile => undef,
-      }, "ParsedCmd"),
-      bless({
-        cmd => "photoFact",
-        name => 7,
-        parsedKeys => bless({ cmd => "photoFact", name => 7, title => 2 }, "ParsedKeys"),
-        title => 2,
-        titleFile => undef,
-      }, "ParsedCmd"),
-      bless({
-        cmd => "photoFact",
-        name => 7,
-        parsedKeys => bless({ cmd => "photoFact", name => 7, title => 3 }, "ParsedKeys"),
-        title => 3,
-        titleFile => undef,
-      }, "ParsedCmd"),
-      bless({
-        cmd => "photoFact",
-        name => 7,
-        parsedKeys => bless({ cmd => "photoFact", name => 7, title => 4 }, "ParsedKeys"),
-        title => 4,
-        titleFile => undef,
-      }, "ParsedCmd"),
     ],
-    source => "app horses =an app about horses\n  ordered=yes, this app is ordered although I am not sure that this is necessary in a newSourceFile\n  maximages = 6\n  icon = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg\n  author=philiprbrenan\n  email = philiprbrenan\@gmail.com\n# language=en5\n\nphoto 1=one trees\n  afewchars=1\nphoto 2=two\n  afewchars=2\nphoto 3=three\n  afewchars=3\nphoto 4=four\n  afewchars=4\n\nphoto arab.1= arabian stallion on green grass\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg\n  afewchars=arab\n\nphoto arab.2 = arabian stallion on sand\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian2.jpg\n  afewchars=arab\n\nphoto shetland.1= Shetland pony looking at you\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg\n  afewchars=sp\n\nphoto shetland.2= Shetland pony with saddle\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg\n  afewchars=sp\n\n \nfact arab = Originated in the deserts of the Arabian Peninsula\nfact arab = One of the oldest breeds dating back at least 4,500 years\n\nfact shetland = Small size\nfact shetland = Compact, sturdy build with short legs and a thick coat\nfact shetland.2  = Requires a small saddle in winter\n",
-    sourceFileSha => "322f439853b30b4f616ba9349c99a5057e5f5195",
-    step => "completed",
+    source => "app horses =an app about horses\n  ordered=yes, this app is ordered although I am not sure that this is necessary in a newSourceFile\n  maximages = 6\n  icon = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg\n  author=philiprbrenan\n  email = philiprbrenan\@gmail.com\n# language=en6\n\nphoto 1=one trees\n  afewchars=1\nphoto 2=two\n  afewchars=2\nphoto 3=three\n  afewchars=3\nphoto 4=four\n  afewchars=4\n\nphoto arab.1= arabian stallion on green grass\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg\n  afewchars=arab\n\nphoto arab.2 = arabian stallion on sand\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian2.jpg\n  afewchars=arab\n\nphoto shetland.1= Shetland pony looking at you\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg\n  afewchars=sp\n\nphoto shetland.2= Shetland pony with saddle\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg\n  afewchars=sp\n\n \nfact arab = Originated in the deserts of the Arabian Peninsula\nfact arab = One of the oldest breeds dating back at least 4,500 years\n\nfact shetland = Small size\nfact shetland = Compact, sturdy build with short legs and a thick coat\nfact shetland.2  = Requires a small saddle in winter\n",
+    sourceFileSha => "71c248b03608a0e869556dc053046499a02f1aae",
+    step => "loadAssets",
   }, "Manifest");
   $a->{parsedCmds}[0] = $a->{app};
   $a;
