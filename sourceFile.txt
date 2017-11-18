@@ -1,7 +1,7 @@
 app horses =an app about horses
   ordered=yes, this app is ordered although I am not sure that this is necessary in a newSourceFile
   maximages = 6
-  icon = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg
+  icon = Arabian1.jpg
   author=philiprbrenan
   email = philiprbrenan@gmail.com
 # language=en6
