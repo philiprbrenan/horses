@@ -1,19 +1,19 @@
 SUCCESS!
 
-2017-11-18 at 21:05:49 Generate AppaAppsPhotoApp version 20171117-11 philiprbrenan/horses
+2017-11-18 at 21:08:45 Generate AppaAppsPhotoApp version 20171116-55 philiprbrenan/horses
 
-2017-11-18 at 21:05:54 Step: parseSource
-2017-11-18 at 21:05:54 Good source file!
-2017-11-18 at 21:05:54 Step: loadAssets
-2017-11-18 at 21:06:02 Step: multiplyPhotosByFacts
-2017-11-18 at 21:06:02 Step: genJavaManifest
-2017-11-18 at 21:06:02 Step: genJsonManifest
-2017-11-18 at 21:06:02 Step: genGameHtml
-2017-11-18 at 21:06:02 Step: genHtmlAssets
-2017-11-18 at 21:06:02 Step: zipAssets
-2017-11-18 at 21:06:02 Step: compileApp
-2017-11-18 at 21:06:05 Step: copyLinksToGitHub
-2017-11-18 at 21:06:05 Step: copyFilesIntoPositionOnWebServer
+2017-11-18 at 21:08:47 Step: parseSource
+2017-11-18 at 21:08:47 Good source file!
+2017-11-18 at 21:08:47 Step: loadAssets
+2017-11-18 at 21:08:50 Step: multiplyPhotosByFacts
+2017-11-18 at 21:08:50 Step: genJavaManifest
+2017-11-18 at 21:08:50 Step: genJsonManifest
+2017-11-18 at 21:08:50 Step: genGameHtml
+2017-11-18 at 21:08:50 Step: genHtmlAssets
+2017-11-18 at 21:08:50 Step: zipAssets
+2017-11-18 at 21:08:50 Step: compileApp
+2017-11-18 at 21:09:02 Step: copyLinksToGitHub
+2017-11-18 at 21:09:04 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -21,10 +21,11 @@ do {
       action        => "run",
       activity      => "Activity",
       buildFolder   => "/tmp/AppaAppsPhotoApp/build/",
-      buildTools    => "/home/phil/Android/sdk/build-tools/25.0.2/",
+      buildTools    => "/home/phil/Android/sdk/build-tools/25.0.3/",
       debug         => 0,
       device        => "-s emulator-5554",
-      home          => "/home/phil/AppaAppsPhotoApp/",
+      editSource    => undef,
+      home          => "/",
       icon          => "/home/phil/AppaAppsPhotoApp/cache/images/Arabian1.jpg",
       keyAlias      => "genApp",
       keyStoreFile  => "/home/phil/AppaAppsPhotoApp/keys/genApp.keystore",
@@ -32,14 +33,16 @@ do {
       libs          => [],
       log           => [
                          "",
+                         "warning: [options] bootstrap class path not set in conjunction with -source 1.7\n1 warning",
                          "",
-                         "Crunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
+                         "libpng error: Read Error\nCrunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
+                         "",
                          "",
                          "Enter Passphrase for keystore: jar signed.\n\nWarning: \nNo -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.",
-                         "",
+                         "\njar verified.\n\nWarning: \nThis jar contains entries whose certificate chain is not validated.\nThis jar contains signatures that does not include a timestamp. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.\n\nRe-run with the -verbose and -certs options for more details.",
                        ],
       package       => "com.appaapps.photoapp.horses",
-      parameters    => "philiprbrenan,horses,http://www.appaapps.com/users/philiprbrenan/horses/zip/horses.zip,an app about horses",
+      parameters    => "philiprbrenan,horses,http://www.appaapps.com/users/philiprbrenan/horses/zip/horses.zip",
       permissions   => ["INTERNET", "ACCESS_NETWORK_STATE", "WRITE_EXTERNAL_STORAGE"],
       platform      => "/home/phil/Android/sdk/platforms/android-25/",
       platformTools => "/home/phil/Android/sdk/platform-tools/",
@@ -64,7 +67,6 @@ do {
                          "/home/phil/java/unzip/Unzip.java",
                        ],
       title         => "an app about horses",
-      verifyApk     => undef,
       version       => 20171118,
     }, "Android::Build"),
     app => bless({
@@ -76,7 +78,7 @@ do {
         author    => "philiprbrenan",
         cmd       => "app",
         email     => "philiprbrenan\@gmail.com",
-        icon      => "https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg",
+        icon      => "Arabian1.jpg",
         language  => "en",
         maximages => 6,
         name      => "horses",
@@ -91,19 +93,19 @@ do {
     error => undef,
     iconFile => "/home/phil/AppaAppsPhotoApp/cache/images/Arabian1.jpg",
     log => [
-      "\n2017-11-18 at 21:05:49 Generate AppaAppsPhotoApp version 20171117-11 philiprbrenan/horses\n",
-      "2017-11-18 at 21:05:54 Step: parseSource",
-      "2017-11-18 at 21:05:54 Good source file!",
-      "2017-11-18 at 21:05:54 Step: loadAssets",
-      "2017-11-18 at 21:06:02 Step: multiplyPhotosByFacts",
-      "2017-11-18 at 21:06:02 Step: genJavaManifest",
-      "2017-11-18 at 21:06:02 Step: genJsonManifest",
-      "2017-11-18 at 21:06:02 Step: genGameHtml",
-      "2017-11-18 at 21:06:02 Step: genHtmlAssets",
-      "2017-11-18 at 21:06:02 Step: zipAssets",
-      "2017-11-18 at 21:06:02 Step: compileApp",
-      "2017-11-18 at 21:06:05 Step: copyLinksToGitHub",
-      "2017-11-18 at 21:06:05 Step: copyFilesIntoPositionOnWebServer",
+      "\n2017-11-18 at 21:08:45 Generate AppaAppsPhotoApp version 20171116-55 philiprbrenan/horses\n",
+      "2017-11-18 at 21:08:47 Step: parseSource",
+      "2017-11-18 at 21:08:47 Good source file!",
+      "2017-11-18 at 21:08:47 Step: loadAssets",
+      "2017-11-18 at 21:08:50 Step: multiplyPhotosByFacts",
+      "2017-11-18 at 21:08:50 Step: genJavaManifest",
+      "2017-11-18 at 21:08:50 Step: genJsonManifest",
+      "2017-11-18 at 21:08:50 Step: genGameHtml",
+      "2017-11-18 at 21:08:50 Step: genHtmlAssets",
+      "2017-11-18 at 21:08:50 Step: zipAssets",
+      "2017-11-18 at 21:08:50 Step: compileApp",
+      "2017-11-18 at 21:09:02 Step: copyLinksToGitHub",
+      "2017-11-18 at 21:09:04 Step: copyFilesIntoPositionOnWebServer",
     ],
     parsedCmds => [
       'fix',
@@ -139,7 +141,7 @@ do {
         index => 2,
         name => 3,
         parsedKeys => bless({
-          afewchars => "tr\xEAs",
+          afewchars => "tr\xC3\xAAs",
           cmd => "photo",
           name => 3,
           title => "three",
@@ -374,8 +376,8 @@ do {
         titleFile => undef,
       }, "ParsedCmd"),
     ],
-    source => "app horses =an app about horses\n  ordered=yes, this app is ordered although I am not sure that this is necessary in a newSourceFile\n  maximages = 6\n  icon = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg\n  author=philiprbrenan\n  email = philiprbrenan\@gmail.com\n# language=en6\n\nphoto 1=one trees\n  afewchars=1\nphoto 2=two\n  afewchars=2\nphoto 3=three\n  afewchars=tr\xEAs\nphoto 4=four\n  afewchars=4\n\nphoto arab.1= arabian stallion on green grass\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg\n  afewchars=arab\n\nphoto arab.2 = arabian stallion on sand\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian2.jpg\n  afewchars=arab\n\nphoto shetland.1= Shetland pony looking at you\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg\n  afewchars=sp\n\nphoto shetland.2= Shetland pony with saddle\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg\n  afewchars=sp\n\n \nfact arab = Originated in the deserts of the Arabian Peninsula\nfact arab = One of the oldest breeds dating back at least 4,500 years\n\nfact shetland = Small size\nfact shetland = Compact, sturdy build with short legs and a thick coat\nfact shetland.2  = Requires a small saddle in winter\n",
-    sourceFileSha => "9c887168d931ecef7c61c2eb45cad9d5d38cf329",
+    source => "app horses =an app about horses\n  ordered=yes, this app is ordered although I am not sure that this is necessary in a newSourceFile\n  maximages = 6\n  icon = Arabian1.jpg\n  author=philiprbrenan\n  email = philiprbrenan\@gmail.com\n# language=en6\n\nphoto 1=one trees\n  afewchars=1\nphoto 2=two\n  afewchars=2\nphoto 3=three\n  afewchars=tr\xC3\xAAs\nphoto 4=four\n  afewchars=4\n\nphoto arab.1= arabian stallion on green grass\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg\n  afewchars=arab\n\nphoto arab.2 = arabian stallion on sand\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian2.jpg\n  afewchars=arab\n\nphoto shetland.1= Shetland pony looking at you\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg\n  afewchars=sp\n\nphoto shetland.2= Shetland pony with saddle\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg\n  afewchars=sp\n\n \nfact arab = Originated in the deserts of the Arabian Peninsula\nfact arab = One of the oldest breeds dating back at least 4,500 years\n\nfact shetland = Small size\nfact shetland = Compact, sturdy build with short legs and a thick coat\nfact shetland.2  = Requires a small saddle in winter\n",
+    sourceFileSha => "e2fff219b4ccb3fda4bd59ba79adf75c0d1e20ba",
     step => "completed",
   }, "Manifest");
   $a->{parsedCmds}[0] = $a->{app};
