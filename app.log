@@ -1,33 +1,19 @@
+SUCCESS!
 
-2017-11-18 at 20:47:36 Generate AppaAppsPhotoApp version 20171117-11 philiprbrenan/horses
+2017-11-18 at 20:49:01 Generate AppaAppsPhotoApp version 20171117-11 philiprbrenan/horses
 
-2017-11-18 at 20:47:40 Step: parseSource
-2017-11-18 at 20:47:40 Good source file!
-2017-11-18 at 20:47:40 Step: loadAssets
-2017-11-18 at 20:47:50 Step: multiplyPhotosByFacts
-2017-11-18 at 20:47:50 Step: genJavaManifest
-2017-11-18 at 20:47:50 Step: genJsonManifest
-2017-11-18 at 20:47:50 Step: genGameHtml
-2017-11-18 at 20:47:50 Step: genHtmlAssets
-2017-11-18 at 20:47:50 Step: zipAssets
-2017-11-18 at 20:47:50 Step: compileApp
-2017-11-18 at 20:47:50 Unable to create apk file /tmp/AppaAppsPhotoApp/build/bin/horses.apk in build folder:
-/tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/
-Java errors
-/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/horses/Activity.java:271: error: not a statement
-       {say "Downloaded a new version";
-        ^
-/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/horses/Activity.java:271: error: ';' expected
-       {say "Downloaded a new version";
-           ^
-2 errors
- at /usr/local/share/perl/5.22.1/Android/Build.pm line 449.
-	Android::Build::make(Android::Build=HASH(0x2a031c0)) called at /usr/local/share/perl/5.22.1/Android/Build.pm line 548
-	Android::Build::compile(Android::Build=HASH(0x2a031c0)) called at AppaAppsPhotoApp.pl line 2076
-	eval {...} called at AppaAppsPhotoApp.pl line 2076
-	Manifest::compileApp(Manifest=HASH(0x28f4dd8)) called at AppaAppsPhotoApp.pl line 523
-	main::genApplicationDescriptionFromSourceFile() called at AppaAppsPhotoApp.pl line 2398
-
+2017-11-18 at 20:49:06 Step: parseSource
+2017-11-18 at 20:49:06 Good source file!
+2017-11-18 at 20:49:06 Step: loadAssets
+2017-11-18 at 20:49:14 Step: multiplyPhotosByFacts
+2017-11-18 at 20:49:14 Step: genJavaManifest
+2017-11-18 at 20:49:14 Step: genJsonManifest
+2017-11-18 at 20:49:14 Step: genGameHtml
+2017-11-18 at 20:49:14 Step: genHtmlAssets
+2017-11-18 at 20:49:14 Step: zipAssets
+2017-11-18 at 20:49:14 Step: compileApp
+2017-11-18 at 20:49:17 Step: copyLinksToGitHub
+2017-11-18 at 20:49:17 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -46,7 +32,11 @@ do {
       libs          => [],
       log           => [
                          "",
-                         "/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/horses/Activity.java:271: error: not a statement\n       {say \"Downloaded a new version\";\n        ^\n/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/horses/Activity.java:271: error: ';' expected\n       {say \"Downloaded a new version\";\n           ^\n2 errors",
+                         "",
+                         "Crunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
+                         "",
+                         "Enter Passphrase for keystore: jar signed.\n\nWarning: \nNo -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.",
+                         "",
                        ],
       package       => "com.appaapps.photoapp.horses",
       parameters    => "philiprbrenan,horses,http://www.appaapps.com/users/philiprbrenan/horses/zip/horses.zip,an app about horses",
@@ -74,6 +64,7 @@ do {
                          "/home/phil/java/unzip/Unzip.java",
                        ],
       title         => "an app about horses",
+      verifyApk     => undef,
       version       => 20171118,
     }, "Android::Build"),
     app => bless({
@@ -97,21 +88,22 @@ do {
       title => "an app about horses",
       titleFile => undef,
     }, "ParsedCmd"),
-    error => 1,
+    error => undef,
     iconFile => "/home/phil/AppaAppsPhotoApp/cache/images/Arabian1.jpg",
     log => [
-      "\n2017-11-18 at 20:47:36 Generate AppaAppsPhotoApp version 20171117-11 philiprbrenan/horses\n",
-      "2017-11-18 at 20:47:40 Step: parseSource",
-      "2017-11-18 at 20:47:40 Good source file!",
-      "2017-11-18 at 20:47:40 Step: loadAssets",
-      "2017-11-18 at 20:47:50 Step: multiplyPhotosByFacts",
-      "2017-11-18 at 20:47:50 Step: genJavaManifest",
-      "2017-11-18 at 20:47:50 Step: genJsonManifest",
-      "2017-11-18 at 20:47:50 Step: genGameHtml",
-      "2017-11-18 at 20:47:50 Step: genHtmlAssets",
-      "2017-11-18 at 20:47:50 Step: zipAssets",
-      "2017-11-18 at 20:47:50 Step: compileApp",
-      "2017-11-18 at 20:47:50 Unable to create apk file /tmp/AppaAppsPhotoApp/build/bin/horses.apk in build folder:\n/tmp/AppaAppsPhotoApp/users/philiprbrenan/horses/\nJava errors\n/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/horses/Activity.java:271: error: not a statement\n       {say \"Downloaded a new version\";\n        ^\n/tmp/AppaAppsPhotoApp/build/gen/com/appaapps/photoapp/horses/Activity.java:271: error: ';' expected\n       {say \"Downloaded a new version\";\n           ^\n2 errors\n at /usr/local/share/perl/5.22.1/Android/Build.pm line 449.\n\tAndroid::Build::make(Android::Build=HASH(0x2a031c0)) called at /usr/local/share/perl/5.22.1/Android/Build.pm line 548\n\tAndroid::Build::compile(Android::Build=HASH(0x2a031c0)) called at AppaAppsPhotoApp.pl line 2076\n\teval {...} called at AppaAppsPhotoApp.pl line 2076\n\tManifest::compileApp(Manifest=HASH(0x28f4dd8)) called at AppaAppsPhotoApp.pl line 523\n\tmain::genApplicationDescriptionFromSourceFile() called at AppaAppsPhotoApp.pl line 2398\n",
+      "\n2017-11-18 at 20:49:01 Generate AppaAppsPhotoApp version 20171117-11 philiprbrenan/horses\n",
+      "2017-11-18 at 20:49:06 Step: parseSource",
+      "2017-11-18 at 20:49:06 Good source file!",
+      "2017-11-18 at 20:49:06 Step: loadAssets",
+      "2017-11-18 at 20:49:14 Step: multiplyPhotosByFacts",
+      "2017-11-18 at 20:49:14 Step: genJavaManifest",
+      "2017-11-18 at 20:49:14 Step: genJsonManifest",
+      "2017-11-18 at 20:49:14 Step: genGameHtml",
+      "2017-11-18 at 20:49:14 Step: genHtmlAssets",
+      "2017-11-18 at 20:49:14 Step: zipAssets",
+      "2017-11-18 at 20:49:14 Step: compileApp",
+      "2017-11-18 at 20:49:17 Step: copyLinksToGitHub",
+      "2017-11-18 at 20:49:17 Step: copyFilesIntoPositionOnWebServer",
     ],
     parsedCmds => [
       'fix',
@@ -384,7 +376,7 @@ do {
     ],
     source => "app horses =an app about horses\n  ordered=yes, this app is ordered although I am not sure that this is necessary in a newSourceFile\n  maximages = 6\n  icon = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg\n  author=philiprbrenan\n  email = philiprbrenan\@gmail.com\n# language=en6\n\nphoto 1=one trees\n  afewchars=1\nphoto 2=two\n  afewchars=2\nphoto 3=three\n  afewchars=tr\xEAs\nphoto 4=four\n  afewchars=4\n\nphoto arab.1= arabian stallion on green grass\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg\n  afewchars=arab\n\nphoto arab.2 = arabian stallion on sand\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian2.jpg\n  afewchars=arab\n\nphoto shetland.1= Shetland pony looking at you\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg\n  afewchars=sp\n\nphoto shetland.2= Shetland pony with saddle\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg\n  afewchars=sp\n\n \nfact arab = Originated in the deserts of the Arabian Peninsula\nfact arab = One of the oldest breeds dating back at least 4,500 years\n\nfact shetland = Small size\nfact shetland = Compact, sturdy build with short legs and a thick coat\nfact shetland.2  = Requires a small saddle in winter\n",
     sourceFileSha => "9c887168d931ecef7c61c2eb45cad9d5d38cf329",
-    step => "compileApp",
+    step => "completed",
   }, "Manifest");
   $a->{parsedCmds}[0] = $a->{app};
   $a;
