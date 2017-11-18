@@ -11,7 +11,7 @@ photo 1=one trees
 photo 2=two
   afewchars=2
 photo 3=three
-  afewchars=3
+  afewchars=três
 photo 4=four
   afewchars=4
 
