@@ -4,7 +4,7 @@ app horses =an app about horses
   icon = Arabian1.jpg
   author=philiprbrenan
   email = philiprbrenan@gmail.com
-  develop = yes
+  develop = yes 1
 # language=en6
 
 photo 1=one trees
