@@ -1,19 +1,19 @@
 SUCCESS!
 
-2017-11-20 at 20:39:37 Generate AppaAppsPhotoApp version 20171120-44 philiprbrenan/horses
+2017-11-20 at 21:44:18 Generate AppaAppsPhotoApp version 20171120-44 philiprbrenan/horses
 
-2017-11-20 at 20:39:41 Step: parseSource
-2017-11-20 at 20:39:41 <b>Good source file!</b>
-2017-11-20 at 20:39:41 Step: loadAssets
-2017-11-20 at 20:39:52 Step: multiplyPhotosByFacts
-2017-11-20 at 20:39:52 Step: genJavaManifest
-2017-11-20 at 20:39:52 Step: genJsonManifest
-2017-11-20 at 20:39:52 Step: genGameHtml
-2017-11-20 at 20:39:52 Step: genHtmlAssets
-2017-11-20 at 20:39:52 Step: zipAssets
-2017-11-20 at 20:39:52 Step: compileApp
-2017-11-20 at 20:39:59 Step: copyLinksToGitHub
-2017-11-20 at 20:39:59 Step: copyFilesIntoPositionOnWebServer
+2017-11-20 at 21:44:23 Step: parseSource
+2017-11-20 at 21:44:23 <b>Good source file!</b>
+2017-11-20 at 21:44:23 Step: loadAssets
+2017-11-20 at 21:44:32 Step: multiplyPhotosByFacts
+2017-11-20 at 21:44:32 Step: genJavaManifest
+2017-11-20 at 21:44:32 Step: genJsonManifest
+2017-11-20 at 21:44:32 Step: genGameHtml
+2017-11-20 at 21:44:32 Step: genHtmlAssets
+2017-11-20 at 21:44:32 Step: zipAssets
+2017-11-20 at 21:44:33 Step: compileApp
+2017-11-20 at 21:44:37 Step: copyLinksToGitHub
+2017-11-20 at 21:44:37 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -83,6 +83,7 @@ do {
         ordered   => "yes, this app is ordered although I am not sure that this is necessary in a newSourceFile",
         speakers  => "Amy Brian Emma Geraint Ivy Joanna Joey Justin Kendra Kimberly Nicole Raveena Russell Salli",
         title     => "an app about horses",
+        version   => "2017-11-20 at 21:44:23",
       }, "ParsedKeys"),
       start => 1,
       title => "an app about horses",
@@ -91,19 +92,19 @@ do {
     error => 0,
     iconFile => "/home/phil/AppaAppsPhotoApp/cache/images/Arabian1.jpg",
     log => [
-      "\n2017-11-20 at 20:39:37 Generate AppaAppsPhotoApp version 20171120-44 philiprbrenan/horses\n",
-      "2017-11-20 at 20:39:41 Step: parseSource",
-      "2017-11-20 at 20:39:41 <b>Good source file!</b>",
-      "2017-11-20 at 20:39:41 Step: loadAssets",
-      "2017-11-20 at 20:39:52 Step: multiplyPhotosByFacts",
-      "2017-11-20 at 20:39:52 Step: genJavaManifest",
-      "2017-11-20 at 20:39:52 Step: genJsonManifest",
-      "2017-11-20 at 20:39:52 Step: genGameHtml",
-      "2017-11-20 at 20:39:52 Step: genHtmlAssets",
-      "2017-11-20 at 20:39:52 Step: zipAssets",
-      "2017-11-20 at 20:39:52 Step: compileApp",
-      "2017-11-20 at 20:39:59 Step: copyLinksToGitHub",
-      "2017-11-20 at 20:39:59 Step: copyFilesIntoPositionOnWebServer",
+      "\n2017-11-20 at 21:44:18 Generate AppaAppsPhotoApp version 20171120-44 philiprbrenan/horses\n",
+      "2017-11-20 at 21:44:23 Step: parseSource",
+      "2017-11-20 at 21:44:23 <b>Good source file!</b>",
+      "2017-11-20 at 21:44:23 Step: loadAssets",
+      "2017-11-20 at 21:44:32 Step: multiplyPhotosByFacts",
+      "2017-11-20 at 21:44:32 Step: genJavaManifest",
+      "2017-11-20 at 21:44:32 Step: genJsonManifest",
+      "2017-11-20 at 21:44:32 Step: genGameHtml",
+      "2017-11-20 at 21:44:32 Step: genHtmlAssets",
+      "2017-11-20 at 21:44:32 Step: zipAssets",
+      "2017-11-20 at 21:44:33 Step: compileApp",
+      "2017-11-20 at 21:44:37 Step: copyLinksToGitHub",
+      "2017-11-20 at 21:44:37 Step: copyFilesIntoPositionOnWebServer",
     ],
     parsedCmds => [
       'fix',
