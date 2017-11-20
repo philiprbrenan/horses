@@ -1,19 +1,19 @@
 SUCCESS!
 
-2017-11-20 at 22:10:34 Generate AppaAppsPhotoApp version 20171120-55 philiprbrenan/horses
+2017-11-20 at 22:13:52 Generate AppaAppsPhotoApp version 20171120-66 philiprbrenan/horses
 
-2017-11-20 at 22:10:36 Step: parseSource
-2017-11-20 at 22:10:36 <b>Good source file!</b>
-2017-11-20 at 22:10:36 Step: loadAssets
-2017-11-20 at 22:10:39 Step: multiplyPhotosByFacts
-2017-11-20 at 22:10:39 Step: genJavaManifest
-2017-11-20 at 22:10:39 Step: genJsonManifest
-2017-11-20 at 22:10:39 Step: genGameHtml
-2017-11-20 at 22:10:39 Step: genHtmlAssets
-2017-11-20 at 22:10:39 Step: zipAssets
-2017-11-20 at 22:10:39 Step: compileApp
-2017-11-20 at 22:10:51 Step: copyLinksToGitHub
-2017-11-20 at 22:10:52 Step: copyFilesIntoPositionOnWebServer
+2017-11-20 at 22:13:54 Step: parseSource
+2017-11-20 at 22:13:54 <b>Good source file!</b>
+2017-11-20 at 22:13:54 Step: loadAssets
+2017-11-20 at 22:13:57 Step: multiplyPhotosByFacts
+2017-11-20 at 22:13:57 Step: genJavaManifest
+2017-11-20 at 22:13:57 Step: genJsonManifest
+2017-11-20 at 22:13:57 Step: genGameHtml
+2017-11-20 at 22:13:57 Step: genHtmlAssets
+2017-11-20 at 22:13:57 Step: zipAssets
+2017-11-20 at 22:13:57 Step: compileApp
+2017-11-20 at 22:14:08 Step: copyLinksToGitHub
+2017-11-20 at 22:14:09 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -35,7 +35,7 @@ do {
                          "",
                          "warning: [options] bootstrap class path not set in conjunction with -source 1.7\n1 warning",
                          "",
-                         "Crunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
+                         "libpng error: Read Error\nCrunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
                          "",
                          "",
                          "Enter Passphrase for keystore: jar signed.\n\nWarning: \nNo -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.",
@@ -86,7 +86,7 @@ do {
         ordered   => "yes, this app is ordered although I am not sure that this is necessary in a newSourceFile",
         speakers  => "Amy Brian Emma Geraint Ivy Joanna Joey Justin Kendra Kimberly Nicole Raveena Russell Salli",
         title     => "an app about horses",
-        version   => "2017-11-20 at 22:10:36",
+        version   => "2017-11-20 at 22:13:54",
       }, "ParsedKeys"),
       start => 1,
       title => "an app about horses",
@@ -95,19 +95,19 @@ do {
     error => 0,
     iconFile => "/home/phil/AppaAppsPhotoApp/cache/images/Arabian1.jpg",
     log => [
-      "\n2017-11-20 at 22:10:34 Generate AppaAppsPhotoApp version 20171120-55 philiprbrenan/horses\n",
-      "2017-11-20 at 22:10:36 Step: parseSource",
-      "2017-11-20 at 22:10:36 <b>Good source file!</b>",
-      "2017-11-20 at 22:10:36 Step: loadAssets",
-      "2017-11-20 at 22:10:39 Step: multiplyPhotosByFacts",
-      "2017-11-20 at 22:10:39 Step: genJavaManifest",
-      "2017-11-20 at 22:10:39 Step: genJsonManifest",
-      "2017-11-20 at 22:10:39 Step: genGameHtml",
-      "2017-11-20 at 22:10:39 Step: genHtmlAssets",
-      "2017-11-20 at 22:10:39 Step: zipAssets",
-      "2017-11-20 at 22:10:39 Step: compileApp",
-      "2017-11-20 at 22:10:51 Step: copyLinksToGitHub",
-      "2017-11-20 at 22:10:52 Step: copyFilesIntoPositionOnWebServer",
+      "\n2017-11-20 at 22:13:52 Generate AppaAppsPhotoApp version 20171120-66 philiprbrenan/horses\n",
+      "2017-11-20 at 22:13:54 Step: parseSource",
+      "2017-11-20 at 22:13:54 <b>Good source file!</b>",
+      "2017-11-20 at 22:13:54 Step: loadAssets",
+      "2017-11-20 at 22:13:57 Step: multiplyPhotosByFacts",
+      "2017-11-20 at 22:13:57 Step: genJavaManifest",
+      "2017-11-20 at 22:13:57 Step: genJsonManifest",
+      "2017-11-20 at 22:13:57 Step: genGameHtml",
+      "2017-11-20 at 22:13:57 Step: genHtmlAssets",
+      "2017-11-20 at 22:13:57 Step: zipAssets",
+      "2017-11-20 at 22:13:57 Step: compileApp",
+      "2017-11-20 at 22:14:08 Step: copyLinksToGitHub",
+      "2017-11-20 at 22:14:09 Step: copyFilesIntoPositionOnWebServer",
     ],
     parsedCmds => [
       'fix',
