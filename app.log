@@ -1,19 +1,19 @@
 SUCCESS!
 
-2017-11-20 at 21:48:36 Generate AppaAppsPhotoApp version 20171120-44 philiprbrenan/horses
+2017-11-20 at 22:10:34 Generate AppaAppsPhotoApp version 20171120-55 philiprbrenan/horses
 
-2017-11-20 at 21:48:41 Step: parseSource
-2017-11-20 at 21:48:41 <b>Good source file!</b>
-2017-11-20 at 21:48:41 Step: loadAssets
-2017-11-20 at 21:48:50 Step: multiplyPhotosByFacts
-2017-11-20 at 21:48:50 Step: genJavaManifest
-2017-11-20 at 21:48:50 Step: genJsonManifest
-2017-11-20 at 21:48:50 Step: genGameHtml
-2017-11-20 at 21:48:50 Step: genHtmlAssets
-2017-11-20 at 21:48:50 Step: zipAssets
-2017-11-20 at 21:48:50 Step: compileApp
-2017-11-20 at 21:48:54 Step: copyLinksToGitHub
-2017-11-20 at 21:48:54 Step: copyFilesIntoPositionOnWebServer
+2017-11-20 at 22:10:36 Step: parseSource
+2017-11-20 at 22:10:36 <b>Good source file!</b>
+2017-11-20 at 22:10:36 Step: loadAssets
+2017-11-20 at 22:10:39 Step: multiplyPhotosByFacts
+2017-11-20 at 22:10:39 Step: genJavaManifest
+2017-11-20 at 22:10:39 Step: genJsonManifest
+2017-11-20 at 22:10:39 Step: genGameHtml
+2017-11-20 at 22:10:39 Step: genHtmlAssets
+2017-11-20 at 22:10:39 Step: zipAssets
+2017-11-20 at 22:10:39 Step: compileApp
+2017-11-20 at 22:10:51 Step: copyLinksToGitHub
+2017-11-20 at 22:10:52 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -21,10 +21,11 @@ do {
       action        => "run",
       activity      => "Activity",
       buildFolder   => "/tmp/AppaAppsPhotoApp/build/",
-      buildTools    => "/home/phil/Android/sdk/build-tools/25.0.2/",
+      buildTools    => "/home/phil/Android/sdk/build-tools/25.0.3/",
       debug         => 0,
       device        => "-s emulator-5554",
-      home          => "/home/phil/AppaAppsPhotoApp/",
+      editSource    => undef,
+      home          => "/root/",
       icon          => "/home/phil/AppaAppsPhotoApp/cache/images/Arabian1.jpg",
       keyAlias      => "genApp",
       keyStoreFile  => "/home/phil/AppaAppsPhotoApp/keys/genApp.keystore",
@@ -32,11 +33,13 @@ do {
       libs          => [],
       log           => [
                          "",
+                         "warning: [options] bootstrap class path not set in conjunction with -source 1.7\n1 warning",
                          "",
-                         "libpng error: Read Error\nCrunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
+                         "Crunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
+                         "",
                          "",
                          "Enter Passphrase for keystore: jar signed.\n\nWarning: \nNo -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.",
-                         "",
+                         "\njar verified.\n\nWarning: \nThis jar contains entries whose certificate chain is not validated.\nThis jar contains signatures that does not include a timestamp. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.\n\nRe-run with the -verbose and -certs options for more details.",
                        ],
       package       => "com.appaapps.photoapp.horses",
       parameters    => "philiprbrenan,horses,http://www.appaapps.com/users/philiprbrenan/horses/zip/horses.zip,an app about horses",
@@ -64,7 +67,6 @@ do {
                          "/home/phil/java/unzip/Unzip.java",
                        ],
       title         => "an app about horses",
-      verifyApk     => undef,
       version       => 20171120,
     }, "Android::Build"),
     app => bless({
@@ -84,7 +86,7 @@ do {
         ordered   => "yes, this app is ordered although I am not sure that this is necessary in a newSourceFile",
         speakers  => "Amy Brian Emma Geraint Ivy Joanna Joey Justin Kendra Kimberly Nicole Raveena Russell Salli",
         title     => "an app about horses",
-        version   => "2017-11-20 at 21:48:41",
+        version   => "2017-11-20 at 22:10:36",
       }, "ParsedKeys"),
       start => 1,
       title => "an app about horses",
@@ -93,19 +95,19 @@ do {
     error => 0,
     iconFile => "/home/phil/AppaAppsPhotoApp/cache/images/Arabian1.jpg",
     log => [
-      "\n2017-11-20 at 21:48:36 Generate AppaAppsPhotoApp version 20171120-44 philiprbrenan/horses\n",
-      "2017-11-20 at 21:48:41 Step: parseSource",
-      "2017-11-20 at 21:48:41 <b>Good source file!</b>",
-      "2017-11-20 at 21:48:41 Step: loadAssets",
-      "2017-11-20 at 21:48:50 Step: multiplyPhotosByFacts",
-      "2017-11-20 at 21:48:50 Step: genJavaManifest",
-      "2017-11-20 at 21:48:50 Step: genJsonManifest",
-      "2017-11-20 at 21:48:50 Step: genGameHtml",
-      "2017-11-20 at 21:48:50 Step: genHtmlAssets",
-      "2017-11-20 at 21:48:50 Step: zipAssets",
-      "2017-11-20 at 21:48:50 Step: compileApp",
-      "2017-11-20 at 21:48:54 Step: copyLinksToGitHub",
-      "2017-11-20 at 21:48:54 Step: copyFilesIntoPositionOnWebServer",
+      "\n2017-11-20 at 22:10:34 Generate AppaAppsPhotoApp version 20171120-55 philiprbrenan/horses\n",
+      "2017-11-20 at 22:10:36 Step: parseSource",
+      "2017-11-20 at 22:10:36 <b>Good source file!</b>",
+      "2017-11-20 at 22:10:36 Step: loadAssets",
+      "2017-11-20 at 22:10:39 Step: multiplyPhotosByFacts",
+      "2017-11-20 at 22:10:39 Step: genJavaManifest",
+      "2017-11-20 at 22:10:39 Step: genJsonManifest",
+      "2017-11-20 at 22:10:39 Step: genGameHtml",
+      "2017-11-20 at 22:10:39 Step: genHtmlAssets",
+      "2017-11-20 at 22:10:39 Step: zipAssets",
+      "2017-11-20 at 22:10:39 Step: compileApp",
+      "2017-11-20 at 22:10:51 Step: copyLinksToGitHub",
+      "2017-11-20 at 22:10:52 Step: copyFilesIntoPositionOnWebServer",
     ],
     parsedCmds => [
       'fix',
