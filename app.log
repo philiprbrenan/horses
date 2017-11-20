@@ -1,21 +1,21 @@
 SUCCESS!
 
-2017-11-20 at 22:38:37 Generate AppaAppsPhotoApp version 20171120-111 philiprbrenan/horses
+2017-11-20 at 22:40:47 Generate AppaAppsPhotoApp version 20171120-111 philiprbrenan/horses
 
-2017-11-20 at 22:38:39 Step: parseSource
-2017-11-20 at 22:38:39 <b>Good source file!</b>
-2017-11-20 at 22:38:39 Step: loadAssets
-2017-11-20 at 22:38:42 0 new, 182 reused audio files
+2017-11-20 at 22:40:49 Step: parseSource
+2017-11-20 at 22:40:49 <b>Good source file!</b>
+2017-11-20 at 22:40:49 Step: loadAssets
+2017-11-20 at 22:40:51 0 new, 182 reused audio files
 
-2017-11-20 at 22:38:42 Step: multiplyPhotosByFacts
-2017-11-20 at 22:38:42 Step: genJavaManifest
-2017-11-20 at 22:38:42 Step: genJsonManifest
-2017-11-20 at 22:38:42 Step: genGameHtml
-2017-11-20 at 22:38:42 Step: genHtmlAssets
-2017-11-20 at 22:38:42 Step: zipAssets
-2017-11-20 at 22:38:42 Step: compileApp
-2017-11-20 at 22:38:52 Step: copyLinksToGitHub
-2017-11-20 at 22:38:53 Step: copyFilesIntoPositionOnWebServer
+2017-11-20 at 22:40:51 Step: multiplyPhotosByFacts
+2017-11-20 at 22:40:51 Step: genJavaManifest
+2017-11-20 at 22:40:51 Step: genJsonManifest
+2017-11-20 at 22:40:51 Step: genGameHtml
+2017-11-20 at 22:40:51 Step: genHtmlAssets
+2017-11-20 at 22:40:51 Step: zipAssets
+2017-11-20 at 22:40:52 Step: compileApp
+2017-11-20 at 22:41:03 Step: copyLinksToGitHub
+2017-11-20 at 22:41:04 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -27,7 +27,7 @@ do {
       debug         => 0,
       device        => "-s emulator-5554",
       editSource    => undef,
-      home          => "/root/",
+      home          => "/",
       icon          => "/home/phil/AppaAppsPhotoApp/cache/images/Arabian1.jpg",
       keyAlias      => "genApp",
       keyStoreFile  => "/home/phil/AppaAppsPhotoApp/keys/genApp.keystore",
@@ -37,7 +37,7 @@ do {
                          "",
                          "warning: [options] bootstrap class path not set in conjunction with -source 1.7\n1 warning",
                          "",
-                         "libpng error: Read Error\nCrunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
+                         "Crunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
                          "",
                          "",
                          "Enter Passphrase for keystore: jar signed.\n\nWarning: \nNo -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.",
@@ -79,7 +79,7 @@ do {
       parsedKeys => bless({
         author    => "philiprbrenan",
         cmd       => "app",
-        develop   => "yes",
+        develop   => "yes 1",
         email     => "philiprbrenan\@gmail.com",
         icon      => "Arabian1.jpg",
         language  => "en",
@@ -88,7 +88,7 @@ do {
         ordered   => "yes, this app is ordered although I am not sure that this is necessary in a newSourceFile",
         speakers  => "Amy Brian Emma Geraint Ivy Joanna Joey Justin Kendra Kimberly Nicole Raveena Russell Salli",
         title     => "an app about horses",
-        version   => "2017-11-20 at 22:38:39",
+        version   => "2017-11-20 at 22:40:49",
       }, "ParsedKeys"),
       start => 1,
       title => "an app about horses",
@@ -97,20 +97,20 @@ do {
     error => 0,
     iconFile => "/home/phil/AppaAppsPhotoApp/cache/images/Arabian1.jpg",
     log => [
-      "\n2017-11-20 at 22:38:37 Generate AppaAppsPhotoApp version 20171120-111 philiprbrenan/horses\n",
-      "2017-11-20 at 22:38:39 Step: parseSource",
-      "2017-11-20 at 22:38:39 <b>Good source file!</b>",
-      "2017-11-20 at 22:38:39 Step: loadAssets",
-      "2017-11-20 at 22:38:42 0 new, 182 reused audio files\n",
-      "2017-11-20 at 22:38:42 Step: multiplyPhotosByFacts",
-      "2017-11-20 at 22:38:42 Step: genJavaManifest",
-      "2017-11-20 at 22:38:42 Step: genJsonManifest",
-      "2017-11-20 at 22:38:42 Step: genGameHtml",
-      "2017-11-20 at 22:38:42 Step: genHtmlAssets",
-      "2017-11-20 at 22:38:42 Step: zipAssets",
-      "2017-11-20 at 22:38:42 Step: compileApp",
-      "2017-11-20 at 22:38:52 Step: copyLinksToGitHub",
-      "2017-11-20 at 22:38:53 Step: copyFilesIntoPositionOnWebServer",
+      "\n2017-11-20 at 22:40:47 Generate AppaAppsPhotoApp version 20171120-111 philiprbrenan/horses\n",
+      "2017-11-20 at 22:40:49 Step: parseSource",
+      "2017-11-20 at 22:40:49 <b>Good source file!</b>",
+      "2017-11-20 at 22:40:49 Step: loadAssets",
+      "2017-11-20 at 22:40:51 0 new, 182 reused audio files\n",
+      "2017-11-20 at 22:40:51 Step: multiplyPhotosByFacts",
+      "2017-11-20 at 22:40:51 Step: genJavaManifest",
+      "2017-11-20 at 22:40:51 Step: genJsonManifest",
+      "2017-11-20 at 22:40:51 Step: genGameHtml",
+      "2017-11-20 at 22:40:51 Step: genHtmlAssets",
+      "2017-11-20 at 22:40:51 Step: zipAssets",
+      "2017-11-20 at 22:40:52 Step: compileApp",
+      "2017-11-20 at 22:41:03 Step: copyLinksToGitHub",
+      "2017-11-20 at 22:41:04 Step: copyFilesIntoPositionOnWebServer",
     ],
     parsedCmds => [
       'fix',
@@ -381,8 +381,8 @@ do {
         titleFile => undef,
       }, "ParsedCmd"),
     ],
-    source => "app horses =an app about horses\n  ordered=yes, this app is ordered although I am not sure that this is necessary in a newSourceFile\n  maximages = 6\n  icon = Arabian1.jpg\n  author=philiprbrenan\n  email = philiprbrenan\@gmail.com\n  develop = yes\n# language=en6\n\nphoto 1=one trees\n  afewchars=1\nphoto 2=two\n  afewchars=2\nphoto 3=three\n  afewchars=tr\xEAs\nphoto 4=four\n  afewchars=4\n\nphoto arab.1= arabian stallion on green grass\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg\n  afewchars=arab\n\nphoto arab.2 = arabian stallion on sand\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian2.jpg\n  afewchars=arab\n\nphoto shetland.1= Shetland pony looking at you\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg\n  afewchars=sp\n\nphoto shetland.2= Shetland pony with saddle\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg\n  afewchars=sp\n\n \nfact arab = Originated in the deserts of the Arabian Peninsula\nfact arab = One of the oldest breeds dating back at least 4,500 years\n\nfact shetland = Small size\nfact shetland = Compact, sturdy build with short legs and a thick coat\nfact shetland.2  = Requires a small saddle in winter\n",
-    sourceFileSha => "6e4a13785a6b0a397cee23d33e6c5b8f2f401edc",
+    source => "app horses =an app about horses\n  ordered=yes, this app is ordered although I am not sure that this is necessary in a newSourceFile\n  maximages = 6\n  icon = Arabian1.jpg\n  author=philiprbrenan\n  email = philiprbrenan\@gmail.com\n  develop = yes 1\n# language=en6\n\nphoto 1=one trees\n  afewchars=1\nphoto 2=two\n  afewchars=2\nphoto 3=three\n  afewchars=tr\xEAs\nphoto 4=four\n  afewchars=4\n\nphoto arab.1= arabian stallion on green grass\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg\n  afewchars=arab\n\nphoto arab.2 = arabian stallion on sand\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian2.jpg\n  afewchars=arab\n\nphoto shetland.1= Shetland pony looking at you\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg\n  afewchars=sp\n\nphoto shetland.2= Shetland pony with saddle\n  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg\n  afewchars=sp\n\n \nfact arab = Originated in the deserts of the Arabian Peninsula\nfact arab = One of the oldest breeds dating back at least 4,500 years\n\nfact shetland = Small size\nfact shetland = Compact, sturdy build with short legs and a thick coat\nfact shetland.2  = Requires a small saddle in winter\n",
+    sourceFileSha => "0ee05e5b7f9e3221f9e4a1d4bf819c77e37849cb",
     step => "completed",
   }, "Manifest");
   $a->{parsedCmds}[0] = $a->{app};
