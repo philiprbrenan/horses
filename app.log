@@ -1,19 +1,19 @@
 SUCCESS!
 
-2017-11-20 at 19:39:39 Generate AppaAppsPhotoApp version 20171120-33 philiprbrenan/horses
+2017-11-20 at 19:42:06 Generate AppaAppsPhotoApp version 20171120-44 philiprbrenan/horses
 
-2017-11-20 at 19:39:40 Step: parseSource
-2017-11-20 at 19:39:40 <b>Good source file!</b>
-2017-11-20 at 19:39:40 Step: loadAssets
-2017-11-20 at 19:39:43 Step: multiplyPhotosByFacts
-2017-11-20 at 19:39:43 Step: genJavaManifest
-2017-11-20 at 19:39:43 Step: genJsonManifest
-2017-11-20 at 19:39:43 Step: genGameHtml
-2017-11-20 at 19:39:43 Step: genHtmlAssets
-2017-11-20 at 19:39:43 Step: zipAssets
-2017-11-20 at 19:39:43 Step: compileApp
-2017-11-20 at 19:39:54 Step: copyLinksToGitHub
-2017-11-20 at 19:39:56 Step: copyFilesIntoPositionOnWebServer
+2017-11-20 at 19:42:08 Step: parseSource
+2017-11-20 at 19:42:08 <b>Good source file!</b>
+2017-11-20 at 19:42:08 Step: loadAssets
+2017-11-20 at 19:42:11 Step: multiplyPhotosByFacts
+2017-11-20 at 19:42:11 Step: genJavaManifest
+2017-11-20 at 19:42:11 Step: genJsonManifest
+2017-11-20 at 19:42:11 Step: genGameHtml
+2017-11-20 at 19:42:11 Step: genHtmlAssets
+2017-11-20 at 19:42:11 Step: zipAssets
+2017-11-20 at 19:42:11 Step: compileApp
+2017-11-20 at 19:42:22 Step: copyLinksToGitHub
+2017-11-20 at 19:42:23 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -35,7 +35,7 @@ do {
                          "",
                          "warning: [options] bootstrap class path not set in conjunction with -source 1.7\n1 warning",
                          "",
-                         "libpng error: Read Error\nCrunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
+                         "Crunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
                          "",
                          "",
                          "Enter Passphrase for keystore: jar signed.\n\nWarning: \nNo -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.",
@@ -93,19 +93,19 @@ do {
     error => 0,
     iconFile => "/home/phil/AppaAppsPhotoApp/cache/images/Arabian1.jpg",
     log => [
-      "\n2017-11-20 at 19:39:39 Generate AppaAppsPhotoApp version 20171120-33 philiprbrenan/horses\n",
-      "2017-11-20 at 19:39:40 Step: parseSource",
-      "2017-11-20 at 19:39:40 <b>Good source file!</b>",
-      "2017-11-20 at 19:39:40 Step: loadAssets",
-      "2017-11-20 at 19:39:43 Step: multiplyPhotosByFacts",
-      "2017-11-20 at 19:39:43 Step: genJavaManifest",
-      "2017-11-20 at 19:39:43 Step: genJsonManifest",
-      "2017-11-20 at 19:39:43 Step: genGameHtml",
-      "2017-11-20 at 19:39:43 Step: genHtmlAssets",
-      "2017-11-20 at 19:39:43 Step: zipAssets",
-      "2017-11-20 at 19:39:43 Step: compileApp",
-      "2017-11-20 at 19:39:54 Step: copyLinksToGitHub",
-      "2017-11-20 at 19:39:56 Step: copyFilesIntoPositionOnWebServer",
+      "\n2017-11-20 at 19:42:06 Generate AppaAppsPhotoApp version 20171120-44 philiprbrenan/horses\n",
+      "2017-11-20 at 19:42:08 Step: parseSource",
+      "2017-11-20 at 19:42:08 <b>Good source file!</b>",
+      "2017-11-20 at 19:42:08 Step: loadAssets",
+      "2017-11-20 at 19:42:11 Step: multiplyPhotosByFacts",
+      "2017-11-20 at 19:42:11 Step: genJavaManifest",
+      "2017-11-20 at 19:42:11 Step: genJsonManifest",
+      "2017-11-20 at 19:42:11 Step: genGameHtml",
+      "2017-11-20 at 19:42:11 Step: genHtmlAssets",
+      "2017-11-20 at 19:42:11 Step: zipAssets",
+      "2017-11-20 at 19:42:11 Step: compileApp",
+      "2017-11-20 at 19:42:22 Step: copyLinksToGitHub",
+      "2017-11-20 at 19:42:23 Step: copyFilesIntoPositionOnWebServer",
     ],
     parsedCmds => [
       'fix',
