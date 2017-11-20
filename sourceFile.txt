@@ -17,19 +17,19 @@ photo 4=four
   afewchars=4
 
 photo arab.1= arabian stallion on green grass
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian1.jpg
+  url = Arabian1.jpg
   afewchars=arab
 
 photo arab.2 = arabian stallion on sand
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/Arabian2.jpg
+  url = Arabian2.jpg
   afewchars=arab
 
 photo shetland.1= Shetland pony looking at you
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg
+  url = ShetlandPony1.jpg
   afewchars=sp
 
 photo shetland.2= Shetland pony with saddle
-  url = https://raw.githubusercontent.com/philiprbrenan/horses/master/images/ShetlandPony1.jpg
+  url = ShetlandPony2.jpg
   afewchars=sp
 
  
