@@ -1,19 +1,19 @@
 SUCCESS!
 
-2017-11-20 at 19:32:18 Generate AppaAppsPhotoApp version 20171120-11 philiprbrenan/horses
+2017-11-20 at 19:35:30 Generate AppaAppsPhotoApp version 20171120-22 philiprbrenan/horses
 
-2017-11-20 at 19:32:19 Step: parseSource
-2017-11-20 at 19:32:19 <b>Good source file!</b>
-2017-11-20 at 19:32:19 Step: loadAssets
-2017-11-20 at 19:32:23 Step: multiplyPhotosByFacts
-2017-11-20 at 19:32:23 Step: genJavaManifest
-2017-11-20 at 19:32:23 Step: genJsonManifest
-2017-11-20 at 19:32:23 Step: genGameHtml
-2017-11-20 at 19:32:23 Step: genHtmlAssets
-2017-11-20 at 19:32:23 Step: zipAssets
-2017-11-20 at 19:32:23 Step: compileApp
-2017-11-20 at 19:32:34 Step: copyLinksToGitHub
-2017-11-20 at 19:32:36 Step: copyFilesIntoPositionOnWebServer
+2017-11-20 at 19:35:31 Step: parseSource
+2017-11-20 at 19:35:31 <b>Good source file!</b>
+2017-11-20 at 19:35:31 Step: loadAssets
+2017-11-20 at 19:35:35 Step: multiplyPhotosByFacts
+2017-11-20 at 19:35:35 Step: genJavaManifest
+2017-11-20 at 19:35:35 Step: genJsonManifest
+2017-11-20 at 19:35:35 Step: genGameHtml
+2017-11-20 at 19:35:35 Step: genHtmlAssets
+2017-11-20 at 19:35:35 Step: zipAssets
+2017-11-20 at 19:35:35 Step: compileApp
+2017-11-20 at 19:35:46 Step: copyLinksToGitHub
+2017-11-20 at 19:35:48 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -25,7 +25,7 @@ do {
       debug         => 0,
       device        => "-s emulator-5554",
       editSource    => undef,
-      home          => "/home/phil/cpan/DataTableText/",
+      home          => "/root/",
       icon          => "/home/phil/AppaAppsPhotoApp/cache/images/Arabian1.jpg",
       keyAlias      => "genApp",
       keyStoreFile  => "/home/phil/AppaAppsPhotoApp/keys/genApp.keystore",
@@ -93,19 +93,19 @@ do {
     error => 0,
     iconFile => "/home/phil/AppaAppsPhotoApp/cache/images/Arabian1.jpg",
     log => [
-      "\n2017-11-20 at 19:32:18 Generate AppaAppsPhotoApp version 20171120-11 philiprbrenan/horses\n",
-      "2017-11-20 at 19:32:19 Step: parseSource",
-      "2017-11-20 at 19:32:19 <b>Good source file!</b>",
-      "2017-11-20 at 19:32:19 Step: loadAssets",
-      "2017-11-20 at 19:32:23 Step: multiplyPhotosByFacts",
-      "2017-11-20 at 19:32:23 Step: genJavaManifest",
-      "2017-11-20 at 19:32:23 Step: genJsonManifest",
-      "2017-11-20 at 19:32:23 Step: genGameHtml",
-      "2017-11-20 at 19:32:23 Step: genHtmlAssets",
-      "2017-11-20 at 19:32:23 Step: zipAssets",
-      "2017-11-20 at 19:32:23 Step: compileApp",
-      "2017-11-20 at 19:32:34 Step: copyLinksToGitHub",
-      "2017-11-20 at 19:32:36 Step: copyFilesIntoPositionOnWebServer",
+      "\n2017-11-20 at 19:35:30 Generate AppaAppsPhotoApp version 20171120-22 philiprbrenan/horses\n",
+      "2017-11-20 at 19:35:31 Step: parseSource",
+      "2017-11-20 at 19:35:31 <b>Good source file!</b>",
+      "2017-11-20 at 19:35:31 Step: loadAssets",
+      "2017-11-20 at 19:35:35 Step: multiplyPhotosByFacts",
+      "2017-11-20 at 19:35:35 Step: genJavaManifest",
+      "2017-11-20 at 19:35:35 Step: genJsonManifest",
+      "2017-11-20 at 19:35:35 Step: genGameHtml",
+      "2017-11-20 at 19:35:35 Step: genHtmlAssets",
+      "2017-11-20 at 19:35:35 Step: zipAssets",
+      "2017-11-20 at 19:35:35 Step: compileApp",
+      "2017-11-20 at 19:35:46 Step: copyLinksToGitHub",
+      "2017-11-20 at 19:35:48 Step: copyFilesIntoPositionOnWebServer",
     ],
     parsedCmds => [
       'fix',
