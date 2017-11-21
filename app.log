@@ -1,21 +1,21 @@
 SUCCESS!
 
-2017-11-20 at 22:42:40 Generate AppaAppsPhotoApp version 20171120-111 philiprbrenan/horses
+2017-11-21 at 01:41:23 Generate AppaAppsPhotoApp version 20171120-111 philiprbrenan/horses
 
-2017-11-20 at 22:42:42 Step: parseSource
-2017-11-20 at 22:42:42 <b>Good source file!</b>
-2017-11-20 at 22:42:42 Step: loadAssets
-2017-11-20 at 22:42:46 0 new, 182 reused audio files
+2017-11-21 at 01:41:25 Step: parseSource
+2017-11-21 at 01:41:25 <b>Good source file!</b>
+2017-11-21 at 01:41:25 Step: loadAssets
+2017-11-21 at 01:41:29 0 new, 182 reused audio files
 
-2017-11-20 at 22:42:46 Step: multiplyPhotosByFacts
-2017-11-20 at 22:42:46 Step: genJavaManifest
-2017-11-20 at 22:42:46 Step: genJsonManifest
-2017-11-20 at 22:42:46 Step: genGameHtml
-2017-11-20 at 22:42:46 Step: genHtmlAssets
-2017-11-20 at 22:42:46 Step: zipAssets
-2017-11-20 at 22:42:46 Step: compileApp
-2017-11-20 at 22:42:57 Step: copyLinksToGitHub
-2017-11-20 at 22:42:58 Step: copyFilesIntoPositionOnWebServer
+2017-11-21 at 01:41:29 Step: multiplyPhotosByFacts
+2017-11-21 at 01:41:29 Step: genJavaManifest
+2017-11-21 at 01:41:29 Step: genJsonManifest
+2017-11-21 at 01:41:29 Step: genGameHtml
+2017-11-21 at 01:41:29 Step: genHtmlAssets
+2017-11-21 at 01:41:29 Step: zipAssets
+2017-11-21 at 01:41:29 Step: compileApp
+2017-11-21 at 01:41:39 Step: copyLinksToGitHub
+2017-11-21 at 01:41:41 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -27,7 +27,7 @@ do {
       debug         => 0,
       device        => "-s emulator-5554",
       editSource    => undef,
-      home          => "/",
+      home          => "/root/",
       icon          => "/home/phil/AppaAppsPhotoApp/cache/images/Arabian1.jpg",
       keyAlias      => "genApp",
       keyStoreFile  => "/home/phil/AppaAppsPhotoApp/keys/genApp.keystore",
@@ -37,7 +37,7 @@ do {
                          "",
                          "warning: [options] bootstrap class path not set in conjunction with -source 1.7\n1 warning",
                          "",
-                         "Crunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
+                         "libpng error: bad adaptive filter value\nCrunching PNG Files in source dir: /tmp/AppaAppsPhotoApp/build/res/\nTo destination dir: /tmp/AppaAppsPhotoApp/build/bin//tmp/AppaAppsPhotoApp/build/res",
                          "",
                          "",
                          "Enter Passphrase for keystore: jar signed.\n\nWarning: \nNo -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2044-09-10) or after any future revocation date.",
@@ -69,7 +69,7 @@ do {
                          "/home/phil/java/unzip/Unzip.java",
                        ],
       title         => "an app about horses",
-      version       => 20171120,
+      version       => 20171121,
     }, "Android::Build"),
     app => bless({
       cmd => "app",
@@ -88,7 +88,7 @@ do {
         ordered   => "yes, this app is ordered although I am not sure that this is necessary in a newSourceFile",
         speakers  => "Amy Brian Emma Geraint Ivy Joanna Joey Justin Kendra Kimberly Nicole Raveena Russell Salli",
         title     => "an app about horses",
-        version   => "2017-11-20 at 22:42:42",
+        version   => "2017-11-21 at 01:41:25",
       }, "ParsedKeys"),
       start => 1,
       title => "an app about horses",
@@ -97,20 +97,20 @@ do {
     error => 0,
     iconFile => "/home/phil/AppaAppsPhotoApp/cache/images/Arabian1.jpg",
     log => [
-      "\n2017-11-20 at 22:42:40 Generate AppaAppsPhotoApp version 20171120-111 philiprbrenan/horses\n",
-      "2017-11-20 at 22:42:42 Step: parseSource",
-      "2017-11-20 at 22:42:42 <b>Good source file!</b>",
-      "2017-11-20 at 22:42:42 Step: loadAssets",
-      "2017-11-20 at 22:42:46 0 new, 182 reused audio files\n",
-      "2017-11-20 at 22:42:46 Step: multiplyPhotosByFacts",
-      "2017-11-20 at 22:42:46 Step: genJavaManifest",
-      "2017-11-20 at 22:42:46 Step: genJsonManifest",
-      "2017-11-20 at 22:42:46 Step: genGameHtml",
-      "2017-11-20 at 22:42:46 Step: genHtmlAssets",
-      "2017-11-20 at 22:42:46 Step: zipAssets",
-      "2017-11-20 at 22:42:46 Step: compileApp",
-      "2017-11-20 at 22:42:57 Step: copyLinksToGitHub",
-      "2017-11-20 at 22:42:58 Step: copyFilesIntoPositionOnWebServer",
+      "\n2017-11-21 at 01:41:23 Generate AppaAppsPhotoApp version 20171120-111 philiprbrenan/horses\n",
+      "2017-11-21 at 01:41:25 Step: parseSource",
+      "2017-11-21 at 01:41:25 <b>Good source file!</b>",
+      "2017-11-21 at 01:41:25 Step: loadAssets",
+      "2017-11-21 at 01:41:29 0 new, 182 reused audio files\n",
+      "2017-11-21 at 01:41:29 Step: multiplyPhotosByFacts",
+      "2017-11-21 at 01:41:29 Step: genJavaManifest",
+      "2017-11-21 at 01:41:29 Step: genJsonManifest",
+      "2017-11-21 at 01:41:29 Step: genGameHtml",
+      "2017-11-21 at 01:41:29 Step: genHtmlAssets",
+      "2017-11-21 at 01:41:29 Step: zipAssets",
+      "2017-11-21 at 01:41:29 Step: compileApp",
+      "2017-11-21 at 01:41:39 Step: copyLinksToGitHub",
+      "2017-11-21 at 01:41:41 Step: copyFilesIntoPositionOnWebServer",
     ],
     parsedCmds => [
       'fix',
